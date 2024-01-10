@@ -1,24 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Sermons, SermonDetails } from "./pages";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    // <Router>
+    //   <Routes>
+    //     <Route path="/index.html" element={<Sermons />}></Route>
+    //     {/* <Route exact path="/">
+    //       <Route path="" element={<Sermons />}></Route>
+    //       <Route path=":slug" element={<SermonDetails />}></Route>
+    //     </Route> */}
+    //     {/* <Route exact path="/contact" element={<Contact />}></Route> */}
+    //   </Routes>
+    // </Router>
+    <Sermons />
   );
 }
 
