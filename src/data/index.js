@@ -17,3 +17,6 @@ export const sermons_data = [
   ..._2018,
   ..._2017,
 ];
+
+// 2022 - tgap genesis, sss, ttmoj3, isaiah, legalism
+// 2023 - orthodoxy, gods-care

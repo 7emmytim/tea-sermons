@@ -1,1 +1,1062 @@
-[]
+[
+    {
+        "series": "Making The Best Of Discipleship",
+        "slug": "making-the-best-of-discipleship",
+        "image_url": "mtbod.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjA0MjE0MjNf/Making%20The%20Best%20Of%20Discipleship.mp4"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Church And Her Purpose",
+        "description": "Series 2",
+        "slug": "the-church-and-her-purpose-series-2",
+        "image_url": "tcp2.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMTMzOTE4Njdf/The%20Church%20And%20Her%20Purpose%20Series%202%20Track%201.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Love Not The World",
+        "slug": "love-not-the-world-series-3",
+        "image_url": "lntw3.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjA0MTk0NzVf/Love%20Not%20The%20World%20%28Series%203-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjA0MTk0NzNf/Love%20Not%20The%20World%20%28Series%203-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjA0MTk0NzRf/Love%20Not%20The%20World%20%28Series%203-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjA0MTk0Nzhf/Love%20Not%20The%20World%20%28Series%203%20-%20Part%204%29.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Resurrection Realities",
+        "slug": "resurrection-realities",
+        "image_url": "resrea.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTM2MTI0ODlf/Resurrection%20realities%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTM2MTI1MDFf/Resurrection%20realities%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTM2MTI1MjJf/Ressurection%20Realities%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTM2MTg0OTVf/Resurrection%20Realities%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTMzODk2MTFf/Ressurection%20Realities%20Track%205.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Lordship of Jesus",
+        "slug": "the-lordship-of-jesus",
+        "image_url": "tloj.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTMzODk1OTdf/The%20Lordship%20Of%20Jesus%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTMzODk1OThf/The%20Lordship%20Of%20Jesus%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTMzODk1OTFf/The%20Lordship%20Of%20Jesus%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTMzODk1OTJf/The%20Lordship%20Of%20Jesus%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTMzODk1OTRf/The%20Lordship%20Of%20Jesus%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTMzODk1OTVf/The%20Lordship%20Of%20Jesus%20Track%206.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Bible and its interpretation",
+        "slug": "the-bible-and-its-interpretation",
+        "image_url": "baii.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTA2MDI2Mjdf/The%20Bibe%20And%20its%20interoretation%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTA2MDI5NDJf/The%20Bible%20And%20Its%20Interpretation%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTA2MDI5OTVf/The%20Bible%20And%20its%20Interpretation%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTA2MDMyMTdf/The%20Bible%20And%20its%20Interpretation%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTA2MDMyMTNf/The%20Bible%20And%20its%20Interpretation%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTA2MDM2Mjlf/The%20Bible%20And%20its%20Interpretation%20Track%206.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Walls",
+        "description": "Theology of Selection - Series 2",
+        "slug": "breaking-dividing-walls-theology-of-selection-series-2",
+        "image_url": "bdw.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI3MjQ1NjFf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Series%202%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI3MjQ1Njlf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Series%202%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTI3MjQ1NzNf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Series%202%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTI3MjQ1Nzlf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Series%202%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTI3MjQ1ODhf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Series%202%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTI3MjQ1OTNf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Series%202%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMTI3MjQ2MDBf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Series%202%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMTI5ODg3NTFf/Breaking%20Dividing%20walls%20-%20Theology%20Of%20Selection%20Series%202%20Part%208.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Walls",
+        "description": "Theology of Selection - Series 1",
+        "slug": "breaking-dividing-walls-theology-of-selection-series-1",
+        "image_url": "bdw2.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI2MTE5NTdf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI2MTE5NThf/Breaking%20Dividing%20wall%20%28Theology%20of%20Selection%29%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTI2MTE5NjBf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTI2MTE5NjFf/Breaking%20Dividing%20wall%20%28Theology%20of%20Selection%29%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTI2MTE5MjBf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTI2MTE5MjFf/Breaking%20Dividing%20wall%20%28Theology%20of%20Selection%29%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMTI2MTE5MjJf/Breaking%20Dividing%20wall%20%28Theology%20of%20Selection%29%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMTI2MTE5MjRf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMTI2MTE5Mjhf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMTI2MTE5MzRf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfMTI2MTE5Mzdf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfMTI2MTE5NDFf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%2012.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/s/MzJfMTI2MTE5NDNf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%2013.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/s/MzJfMTI2MTE5NDRf/Breaking%20Dividing%20Wall%20%28Theology%20of%20selection%29%20-%20Part%2014.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Walls",
+        "description": "Gospel of Inclusion",
+        "slug": "breaking-dividing-walls-gospel-of-inclusion",
+        "image_url": "bdw-gi.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfOTE5MDczMl8/Breaking%20Dividing%20Walls%20-%20The%20Gospel%20of%20Inclusion%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfOTE5MDczM18/Breaking%20Dividing%20Walls%20-%20The%20Gospel%20of%20Inclusion%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfOTE5MDczNF8/Breaking%20Dividing%20Walls%20-%20The%20Gospel%20of%20Inclusion%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfOTE5MDczNV8/Breaking%20Dividing%20Walls%20-%20The%20Gospel%20of%20Inclusion%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfOTE5MDcyOF8/Breaking%20Dividing%20Walls%20-%20The%20Gospel%20of%20Inclusion%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfOTE5MDczMF8/Breaking%20Dividing%20Walls%20-%20The%20Gospel%20of%20Inclusion%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfOTE5MDczMV8/Breaking%20Dividing%20Walls%20-%20The%20Gospel%20of%20Inclusion%20Track%207.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Christian songs & Worship",
+        "description": "Series 2",
+        "slug": "christian-songs-and-worship-series-2",
+        "image_url": "csaw.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfOTE4NzIzMF8/Christian%20Songs%20and%20Worship%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfOTE4NzIzNl8/Christian%20Songs%20and%20Worship%20Series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfOTE4NzE2Nl8/Christian%20Songs%20and%20Worship%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfOTE4NzIxOV8/Christian%20Songs%20and%20Worship%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfOTE4NzIyMV8/Christian%20Songs%20and%20Worship%20Series%202%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfOTE4NzIyNV8/Christian%20Songs%20and%20Worship%20Series%202%20Track%206.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Can The Bible Be Wrong?",
+        "description": "Series 3",
+        "slug": "can-the-bible-be-wrong-series-3",
+        "image_url": "ctbbw.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMTI2MTE5Njlf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMTI2MTE5NzBf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMTI2MTE5NzFf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMTI2MTE5NzJf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMTI2MTE5NjJf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMTI2MTE5NjNf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMTI2MTE5NjVf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/d/MzJfMTI2MTE5NjZf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/d/MzJfMTI2MTE5Njhf/Can%20The%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/d/MzJfMTI3MDQ2OTJf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/d/MzJfMTI3MDQ1MDRf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/d/MzJfMTI3MDQ1MzRf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2012.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/d/MzJfMTI3MDQ1NTZf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2013.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/d/MzJfMTI3MDQ1NzRf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2014.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/d/MzJfMTI3MDQ2MDFf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2015.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/d/MzJfMTI3MDQ2Mjlf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2016.mp3"
+            },
+            {
+                "track_number": 17,
+                "url": "https://od.lk/d/MzJfMTI3MDQ2NjFf/Can%20the%20Bible%20Be%20Wrong%20-%20Series%203%20-%20Part%2017.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "When God Calls",
+        "slug": "when-god-calls",
+        "image_url": "wgc.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI2NjMzMDhf/When%20God%20Calls%20Day%201%20-%20Kaduna.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI2NjMzMDlf/When%20God%20Calls%20day%202%20-%20kaduna.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Contributing to the flow of the Holy Ghost in your local church",
+        "slug": "contributing-to-the-flow-of-the-holy-ghost-in-your-local-church",
+        "image_url": "ctlc.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODc0MzgzMF8/Contributing%20to%20the%20flow%20of%20the%20Holy%20Ghost%20in%20your%20Local%20Church%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODc0Mzg0OF8/Contributing%20to%20the%20flow%20of%20the%20Holy%20Ghost%20in%20your%20Local%20Church%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfODc0Mzg2MF8/Contributing%20to%20the%20flow%20of%20the%20Holy%20Ghost%20in%20your%20Local%20Church%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfODc0Mzg3OF8/Contributing%20to%20the%20flow%20of%20the%20Holy%20Ghost%20in%20your%20Local%20Church%20Track%204.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Engaging Unbelief",
+        "description": "Series 2",
+        "slug": "engaging-unbelief-series-2",
+        "image_url": "eu2.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTA4ODA4MjBf/Engaging%20unbelief%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTA4ODA4MjFf/Engaging%20Unbelief%20Series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTA4ODA4MjJf/Engaging%20Unbelief%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTA4ODA4MjNf/Engaging%20Unbelief%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTA5NDQ0NzJf/Engaging%20Unbelief%20Series%202%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTA5MzcwNTlf/Engaging%20Unbelief%20Series%202%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMTA5MzcyNjdf/Engaging%20Unbelief%20Series%202%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMTI5ODg3NThf/engaging%20unbelief%20series%202%20part%208.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Leading",
+        "slug": "gods-leading",
+        "image_url": "gl.jfif",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODQ4Njk1MF8/God%27s%20Leadings%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODQ4NzQ5Ml8/God%27s%20Leadings%20Track%202.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Power And My Desire",
+        "slug": "gods-power-and-my-desire",
+        "image_url": "gpamd.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI3MjQ2NTVf/God%27s%20Power%20And%20My%20Desire%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI3MjQ2NDlf/God%27s%20Power%20And%20My%20Desire%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Word and the Beleiver's Mind",
+        "slug": "gods-word-and-the-believers-mind",
+        "image_url": "gwbm.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODc0NDIxN18/God%27s%20word%20and%20the%20Believer%27s%20Mind%20-%20Breaking%20Mental%20Strongholds%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODc0NDIwNl8/God%27s%20word%20and%20the%20Believer%27s%20Mind%20-%20Breaking%20Mental%20Strongholds%20Track%202.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Word God's Action",
+        "description": "Series 3",
+        "slug": "gods-word-gods-action-series-3",
+        "image_url": "gwga.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI3MjQ3ODJf/God%27s%20Word%20God%27s%20Action%20-%20Series%203%20%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI3MjQ3ODVf/God%27s%20Word%20God%27s%20Action%20-%20Series%203%20%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTI3MjQ3Njlf/God%27s%20Word%20God%27s%20Action%20-%20Series%203%20%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MjJf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MjNf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTMzOTE3OThf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MDBf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MDJf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MDdf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/d/MzJfMTMzOTMwNDJf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%2010%20.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfMTMzOTMwNDBf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfMTMzOTMwNDFf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%2012.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MTFf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%2013.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MTJf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%2014.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MTZf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%2015.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MjFf/Gods%20Word%20Gods%20Actions%20Series%203%20Track%2016.mp3"
+            },
+            {
+                "track_number": 17,
+                "url": "https://od.lk/s/MzJfMTMzOTE4MjRf/Gods%20Word%20Gods%20Action%20Series%203%20Track%2017.mp3"
+            },
+            {
+                "track_number": 18,
+                "url": "https://od.lk/s/MzJfMTMzODk2MDFf/Gods%20Word%20Gods%20Action%20Series%203%20Track%2018.mp3"
+            },
+            {
+                "track_number": 19,
+                "url": "https://od.lk/s/MzJfMTMzODk2MDJf/Gods%20Word%20Gods%20Action%20Series%203%20Track%2019.mp3"
+            },
+            {
+                "track_number": 20,
+                "url": "https://od.lk/s/MzJfMTMzODk2MDRf/Gods%20Word%20Gods%20Action%20Series%203%20Track%2020.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Influences",
+        "description": "Series 2",
+        "slug": "influences-series-2",
+        "image_url": "inf.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI3MjQ2MzRf/Influences%20Series%202%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI3MjQ2MzNf/Influences%20Series%202%20Part%202.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Divinely Assuredly",
+        "slug": "divinely-assuredly",
+        "image_url": "da.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDg3MV8/Divinely-Assured.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Mininstry of Jesus and Time",
+        "slug": "the-ministry-of-jesus-and-time",
+        "image_url": "moj.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI2NjMzMDVf/The%20Ministry%20of%20Jesus%20and%20Time%20Day%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI2NjMzMDZf/The%20Ministry%20of%20Jesus%20and%20Time%20Day%202.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Maximizing The Spirituals",
+        "description": "Honour",
+        "slug": "maximizing-the-spirituals-honour",
+        "image_url": "mts.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI3MjQ3MDNf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI3MjQ3MTJf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTI3MjQ3MDFf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%203.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Our Jesus",
+        "description": "Series 3",
+        "slug": "our-jesus-3",
+        "image_url": "oj.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfOTE4OTI2M18/Our%20Jesus%20Series%203%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfOTE4OTI2NF8/Our%20Jesus%20Series%203%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfOTE4NzU5Nl8/Our%20Jesus%20Series%203%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfOTE4OTI1OV8/Our%20Jesus%20Series%203%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfOTE4OTI2Ml8/Our%20Jesus%20Series%203%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfOTE4OTIyMV8/Our%20Jesus%20Series%203%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfOTE4OTIyMl8/Our%20Jesus%20Series%203%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfOTE4OTIyM18/Our%20Jesus%20Series%203%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfOTE4OTIyNV8/Our%20Jesus%20Series%203%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfOTE4OTIyNl8/Our%20Jesus%20Series%203%20Track%2010.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Path of Glory",
+        "slug": "the-path-of-glory",
+        "image_url": "pog.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI2MTIxMDlf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI2MTIxNDBf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTI2MTIxNTJf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTI2MTIxNTNf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTI2MTIxNTRf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTI2MTIxNjVf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMTI2MTIxNjZf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMTI2NTg0NDdf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMTI2NTg0NDVf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMTI2NTg0NDZf/The%20Path%20of%20Glory%20%28My%20Part%29%20-%20Part%2010.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Prayers and The Wisdom of the Spirit",
+        "slug": "prayers-and-the-wisdom-of-the-spirit",
+        "image_url": "pws.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODc0Mzk4NF8/Prayers%20and%20the%20Wisdom%20of%20the%20Spirit%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODc0MzkwN18/Prayers%20and%20the%20Wisdom%20of%20the%20Spirit%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfODc0NDE2N18/Prayers%20and%20the%20Wisdom%20of%20the%20Spirit%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfODc0Mzk3Nl8/Prayers%20and%20the%20Wisdom%20of%20the%20Spirit%20Track%204.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Relations In God's Family",
+        "slug": "relations-in-gods-family",
+        "image_url": "rigf.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfOTE4OTI2N18/Relations%20in%20God%27s%20Family%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfOTE4OTI2NV8/Relations%20in%20God%27s%20Family%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfOTE4OTI2Nl8/Relations%20in%20God%27s%20Family%20Track%203.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "This Grace",
+        "description": "Series 2",
+        "slug": "this-grace-series-2",
+        "image_url": "tg.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTM2MTA5NzNf/This%20Grace%20-%20Series%202%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTM2MTA5ODBf/This%20Grace%20-%20Series%202%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTM2MTEwODBf/This%20Grace%20-%20Series%202%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTM2MDc2ODZf/This%20Grace%20-%20Series%202%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTM2MDc2ODJf/This%20Grace%20-%20Series%202%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMTM2MDc2Nzhf/This%20Grace%20-%20Series%202%20Part6.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMTM2MDc2NzBf/This%20Grace%20-%20Series%202%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMTM2MDc2NjVf/This%20Grace%20-%20Series%202%20Part%208.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Gift of God",
+        "slug": "the-gift-of-god",
+        "image_url": "tgg.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTM2MTcyNTVf/The%20Gift%20of%20God%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTM2MTc4MjVf/The%20Gift%20of%20God%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMTM2MTc0NjBf/The%20Gift%20of%20God%20Part%203.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Ministry of Jesus",
+        "slug": "the-ministry-of-jesus",
+        "image_url": "tmoj.png",
+        "tracks": [
+            {
+                "track_number": 0,
+                "title": "Short Exhortation",
+                "url": "https://od.lk/d/MzJfOTUxMjcyMV8/Short%20Exhortation.mp3"
+            },
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfOTE4OTM2MF8/The%20Ministry%20of%20Jesus%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfOTE4OTM2MV8/The%20Ministry%20of%20Jesus%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfOTE4OTM3MV8/The%20Ministry%20of%20Jesus%20Track%203.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Utterance Gift",
+        "description": "Series 2",
+        "slug": "the-utterance-gift-series-2",
+        "image_url": "ug.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjIxMTUxNThf/Utterance%20gift%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTA5NTY2OTdf/Utterance%20gift%20Series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjIxMTQ5ODhf/Utterance%20gift%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMTA5NTcwNTJf/Utterance%20gift%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMTA5NTczODVf/Utterance%20gift%20Series%202%20Track%205.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "What is Man",
+        "description": "Series 2",
+        "slug": "what-is-man-series-2",
+        "image_url": "wim.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfOTE4OTM3Ml8/What%20is%20Man%20Series%202%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfOTE4OTM3NF8/What%20is%20Man%20Series%202%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfOTE4OTM3NV8/What%20is%20Man%20Series%202%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfOTE5MDkxN18/What%20is%20Man%20Series%202%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfOTE5MDkxNV8/What%20is%20Man%20Series%202%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfOTE5MDkxNl8/What%20is%20Man%20Series%202%20Part%206.mp3"
+            }
+        ],
+        "year": "2020",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    }
+]

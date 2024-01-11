@@ -1,1 +1,1749 @@
-[]
+[
+    {
+        "series": "Christian Songs & Worship - Series 1",
+        "slug": "christian-songs-and-worship-series-1",
+        "image_url": "csaw.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNTM4NTZf/Christian%20Songs%20and%20Worship.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjMyNDY1NjRf/Christian%20Songs%20And%20Worship-%20Pastor%20Omoba.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "What Is Man - Series 1",
+        "slug": "what-is-man-series-1",
+        "image_url": "wim11.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NzIzM18/What%20is%20Man.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ2NzIzMl8/What%20Is%20Man%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "A Thankful Heart",
+        "slug": "a-thankful-heart",
+        "image_url": "thankful.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDk2Nl8/A-Thankful-Heart-Track-1.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Apostasy",
+        "slug": "apostasy",
+        "image_url": "apostasy.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjI3MjQ1NV8/Apostasy%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjI3MjQ2Ml8/Apostasy%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjI3MjQ3NV8/Apostasy%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjI3MjUwOV8/Apostasy%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjI3MjQyNV8/Apostasy%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjI3MjQzNV8/Apostasy%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjI3MjQ0NV8/Apostasy%20Track%207.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Honor For Saints",
+        "slug": "honor-for-saints",
+        "image_url": "hfs.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMwMjIxM18/Honor%20For%20the%20Saints%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjMwMjIyM18/Honor%20For%20the%20Saints%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Attitude Of The Miraculous",
+        "slug": "attitude-of-the-miraculous",
+        "image_url": "attitude.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1NTMyOV8/The-Attitude-Of-The-Miiraculous-Man-Track-1.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ1NDM3Nl8/The-Attitude-Of-The-Miiraculous-Man-Track-2.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ1NDc1OV8/The-Attitude-Of-The-Miiraculous-Man-Track-3.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjQ1NTA4MV8/The-Attitude-Of-The-Miiraculous-Man-Track-4.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Being On Fire For Jesus",
+        "slug": "being-on-fire-for-jesus",
+        "image_url": "bfj.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1OTU1OV8/Being-On-Fire-For-Jesus.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Stopping Demonic Activity - Series 2",
+        "slug": "stopping-demonic-activity-series-2",
+        "image_url": "sda2.jfif",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODM5NTgyMl8/Stopping%20Demonic%20Activities%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODM5NTkwMF8/Stopping%20Demonic%20Activities%20Series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfODM4Mzc1M18/Stopping%20Demonic%20Activities%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfODM4MzI0OF8/Stopping%20Demonic%20Activities%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfODM4MzI3N18/Stopping%20Demonic%20Activities%20Series%202%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfODM5NjA2MF8/Stopping%20Demonic%20Activities%20Series%202%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfODM4Mjk3Nl8/Stopping%20Demonic%20Activities%20Series%202%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfODM4MzAwM18/Stopping%20Demonic%20Activities%20Series%202%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfODM4MzEyOV8/Stopping%20Demonic%20Activities%20Series%202%20Track%209.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Mission is Possible",
+        "slug": "the-mission-is-possible",
+        "image_url": "tmip.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMTI1Njc2ODRf/Mission%20is%20Possible%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMTI1Njc3MDBf/Mission%20is%20Possible%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Birthing Revival",
+        "slug": "birthing-revival",
+        "image_url": "revival.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NTk5N18/Birthing%20Revival%201.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Divivding Walls",
+        "description": "Witnesses",
+        "slug": "breaking-dividing-walls-witnesses",
+        "image_url": "bdw3.jfif",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODQ1NjM2MV8/Breaking%20Dividing%20Walls%20%28The%20Witnesses%29%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODQ1NjQ4Nl8/Breaking%20Dividing%20Walls%20%28The%20Witnesses%29%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfODQ1NjUzNl8/Breaking%20Dividing%20Walls%20%28The%20Witnesses%29%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfODQ1NTg1MF8/Breaking%20Dividing%20Walls%20%28The%20Witnesses%29%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfODQ1NjA1MF8/Breaking%20Dividing%20Walls%20%28The%20Witnesses%29%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfODQ1NjA4MV8/Breaking%20Dividing%20Walls%20%28The%20Witnesses%29%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfODQ1NjE5OV8/Breaking%20Dividing%20Walls%20%28The%20Witnesses%29%20Track%207.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Walls",
+        "description": "Religion of Peace",
+        "slug": "breaking-dividing-walls-religion-of-peace",
+        "image_url": "bdw-peace.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNjQ4NDMwMV8/Breaking%20Dividing%20Walls%20%28The%20religion%20of%20Peace%29%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNjQ4NDMxM18/Breaking%20Dividing%20Walls%20%28The%20religion%20of%20Peace%29%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxNF8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwMl8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwNF8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwNV8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwNl8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwN18/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwOF8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwOV8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxMF8/Breaking%20Dividing%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxMV8/Breaking%20DIviding%20Walls%20%28The%20Religion%20of%20Peace%29%20Track%2012.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/s/MzJfNjQ4NDMwMF8/Breaking%20Dividing%20Walls%20-%20Religion%20of%20peace%20Track%2013.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxMl8/Breaking%20Dividing%20Walls%20-%20Religion%20of%20peace%20Track%2014.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/s/MzJfNjQ4NDI5OV8/Breaking%20Dividing%20Walls%20-%20Religion%20of%20peace%20Track%2015.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Walls",
+        "description": "Judaism",
+        "slug": "breaking-dividing-walls-judaism",
+        "image_url": "judaism.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjI3NTc2Nl8/Breaking%20Dividing%20Walls%20%28Judaism%29%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjI3NTY3OF8/Breaking%20Dividing%20walls%20%28Judaism%29%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjI3NTY4N18/Breaking%20Dividing%20Walls%20%28Judaism%29%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjI3NTcyN18/Breaking%20Dividing%20Walls%20%28Judaism%29%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjI3NTczNV8/Breaking%20Dividing%20Walls%20%28Judaism%29%20Track%205.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Walls",
+        "description": "Explaining Trinity",
+        "slug": "breaking-dividing-walls-explaining-trinity",
+        "image_url": "bdw-et.jfif",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODQ0OTQ2OF8/Breaking%20Dividing%20Walls%20-%20%28Explaining%20Trinity%29%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODQ0OTU4OV8/Breaking%20Dividing%20Walls%20-%20%28Explaining%20Trinity%29%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfODQ0ODk3MV8/Breaking%20Dividing%20Walls%20-%20%28Explaining%20Trinity%29%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfODQ0OTAwM18/Breaking%20Dividing%20Walls%20-%20%28Explaining%20Trinity%29%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfODQ0OTIzMF8/Breaking%20Dividing%20Walls%20-%20%28Explaining%20Trinity%29%20Track%205.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Can The Bible Be Wrong",
+        "description": "Series 2",
+        "slug": "can-the-bible-be-wrong-series-2",
+        "image_url": "ctbbw2.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ0ODQyNF8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ0ODU4M18/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ0ODYyMl8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjQ0ODc2NF8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjQ0ODk3Nl8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjQ0OTA1NV8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjQ0OTI5MF8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjQ0OTQ0NV8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjQ0OTgxM18/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfNjQ0OTgzNV8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfNjQ1MDE4NF8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfNjQ1MDIxOF8/Can%20The%20Bible%20Be%20Wrong%20Series%202%20Track%2012.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Christ Our Sufficiency",
+        "slug": "christ-our-sufficiency",
+        "image_url": "sufficiency.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjM1MDI0MF8/Christ%20Our%20Sufficiency.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Christ Revealed",
+        "slug": "christ-revealed",
+        "image_url": "cr.jfif",
+        "tracks": [],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Our Salvation",
+        "description": "Part 21 - 30",
+        "slug": "our-salvation-21-30",
+        "image_url": "salvation21-30.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDgzOV8/Our%20Salvation%20Track%2021.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0MF8/Our%20Salvation%20Track%2022.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0MV8/Our%20Salvation%20Track%2023.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0Ml8/Our%20Salvation%20Track%2024.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0M18/Our%20Salvation%20Track%2025.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0NF8/Our%20Salvation%20Track%2026.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0NV8/Our%20Salvation%20Track%2027.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0Nl8/Our%20Salvation%20Track%2028.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0N18/Our%20Salvation%20Track%2029.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfNjQ2NDg0OF8/Our%20Salvation%20Track%2030.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Christ The Center Of It All",
+        "slug": "christ-the-center-of-it-all",
+        "image_url": "ctc.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NjAxN18/Christ-at-the-Center-of-it-all-1.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ2NjAxOV8/Christ-at-the-Center-of-it-all-2.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Divinely Assuredly",
+        "slug": "divinely-assuredly",
+        "image_url": "da.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDg3MV8/Divinely-Assured.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Sonship & Authority",
+        "slug": "sonship-and-authority",
+        "image_url": "sonship.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjM0NDQ5NF8/Sonship%20And%20Authority%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjM0NDkzN18/Sonship%20And%20Authority%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Cost Of Discipleship",
+        "description": "Series 2",
+        "slug": "the-cost-of-discipleship-2",
+        "image_url": "tcod2.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkxMDQ4Nl8/The%20Cost%20of%20Discipleship%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkxMDQ4NV8/The%20Cost%20of%20Discipleship%20Series%202%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Our Jesus",
+        "description": "Series 2",
+        "slug": "our-jesus-2",
+        "image_url": "oj2.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMwMjI3MV8/Our%20Jesus%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjMwMjI4NF8/Our%20Jesus%20Series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjMwMjMxMl8/Our%20Jesus%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjMwMjMzOV8/Our%20Jesus%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjMwMjM1MV8/Our%20Jesus%20Series%202%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjMwMjM2MF8/Our%20Jesus%20Series%202%20Track%206%20.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjMwMjM2OF8/Our%20Jesus%20Series%202%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjMwNzk4Ml8/Our%20Jesus%20Series%202%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjMwODA4OV8/Our%20Jesus%20Series%202%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfNjMwODU0MF8/Our%20Jesus%20Series%202%20Track%2010.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Father and His Family",
+        "slug": "the-father-and-his-family",
+        "image_url": "tfahf.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDkxOV8/The-Father-And-His-Family-Track-1.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ2NDkyMF8/The-Father-And-His-Family-Track-2.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ2NDkzNF8/The-Father-And-His-Family-Track-3.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjQ2NDkxN18/The-Father-And-His-Family-Track-4.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjQ2NDkxOF8/The-Father-And-His-Family-Track-5.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Gospel of Power",
+        "slug": "the-gospel-of-power",
+        "image_url": "tgoj.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjM0OTk1NV8/The%20Gospel%20of%20Power.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Things of The Spirit",
+        "description": "Series 2",
+        "slug": "the-things-of-the-spirit-2",
+        "image_url": "things.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkxMDQzOV8/Things%20of%20the%20Spirit%20%28Series%202%29%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkxMDQ2MF8/Things%20of%20the%20Spirit%20%28Series%202%29%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNTkxMDQ1M18/Things%20of%20the%20Spirit%20%28Series%202%29%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Believer and Power",
+        "slug": "the-believer-and-power",
+        "image_url": "tbp.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1OTgwN18/The%20Believer%20And%20Power.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Defence Of The Truth",
+        "slug": "the-defence-of-the-truth",
+        "image_url": "tdot.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDk2OF8/The-Defense-Of-The-Truth-Track-1.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Atmosphere of the Holyghost",
+        "slug": "the-atmosphere-of-the-holy-ghost",
+        "image_url": "taoth.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ4NzQ0Ml8/The%20Atmosphere%20of%20the%20Holy%20Ghost%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ4NzUyNF8/The%20Atmosphere%20of%20the%20Spirit%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Expressing The Spirit",
+        "slug": "expressing-the-spirit",
+        "image_url": "ets.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkxMDA5NV8/Expressing%20The%20Spirit%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkxMDExMF8/Expressing%20The%20Spirit%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNTkxMDEyMl8/Expressing%20The%20Spirit%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNTkxMDEzNV8/Expressing%20The%20Spirit%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNTkxMDA4M18/Expressing%20The%20Spirit%20Track%205.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "What To Expect From A Discipleship Church Like This",
+        "slug": "what-to-expect-from-a-discipleship-church-like-this",
+        "image_url": "expect.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1NjY3M18/What-To-Expect-From-A-Discipleship-Church-Like-This%20%281%29.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Practical Session of Prophecy",
+        "slug": "practical-session-of-prophecy",
+        "image_url": "psop.jpg",
+        "tracks": [],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Paying Attention to Bible Knowledge",
+        "slug": "paying-attention-to-bible-knowledge",
+        "image_url": "patk.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1ODk4M18/Paying%20Attention%20To%20Bible%20Knowledge.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Appeal of God",
+        "slug": "the-appeal-of-god",
+        "image_url": "appeal.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjI3NDU4MF8/The%20Appeal%20of%20God%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjI3NDU4OF8/The%20Appeal%20of%20God%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjI3Mjc5MV8/The%20Appeal%20of%20God%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjI3MjgwNF8/The%20Appeal%20of%20God%20Track%204.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Giving & Receiving Prophecy",
+        "slug": "giving-and-receiving-prophecy",
+        "image_url": "grp.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkwOTg2NV8/Giving%20And%20Receiving%20Prophecy%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkwOTg3Ml8/Giving%20and%20Receiving%20Prophecy%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Richies",
+        "slug": "gods-riches",
+        "image_url": "gr.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDg2N18/Gods-Riches-Track-1.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ2NDg2OV8/Gods-Riches-Track-2.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Word, God's Action",
+        "description": "Series 2",
+        "slug": "gods-word-gods-action-series-2",
+        "image_url": "gwga2.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMyNzI0NF8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjMyNzQ1OF8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjMyNzYyMl8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjMyNzczOF8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjMyNzgzMl8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjMyNzkyOF8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjMyODE3Nl8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjMyODQwNV8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjMyODQ2MV8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/d/MzJfNjMyODYyMF8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfNjMyODY5NF8/God%27s%20word%20%26%20God%27s%20Actions%20Series%202%20Part%2011.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "How Important is Church Doctrine",
+        "slug": "how-important-is-church-doctrine",
+        "image_url": "hiscd.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NDg2NV8/How-Important-is-Church-Doctrine-Track-1.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ2NDg1MF8/How-Important-is-Church-Doctrine-Track-2.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ2NDg1MV8/How-Important-is-Church-Doctrine-Track-3.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Influences",
+        "description": "Series 1",
+        "slug": "influences-series-1",
+        "image_url": "influences.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ4NDI5NV8/Influences%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ4NDI5NF8/Influences%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ4NzM3N18/Influences%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Just The Gospel",
+        "slug": "just-the-gospel",
+        "image_url": "jtg.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNjQ2NjAwMV8/Just-the-Gospel.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Sane Mind",
+        "slug": "the-sane-mind",
+        "image_url": "tsm.jfif",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNjk2OTlf/The%20Sane%20Mind.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjMyNzk3MzVf/The%20Sane%20Mind%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjMyNzk3NDhf/The%20Sane%20Mind%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "This Grace",
+        "slug": "this-grace",
+        "image_url": "grace.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ2NzIwNl8/This%20Grace%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ2NzIyN18/This%20Grace%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ2NzIyOF8/This%20Grace%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Work Before Us",
+        "slug": "the-work-before-us",
+        "image_url": "twbu.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNjQ2NjMwN18/The%20Work%20Before%20Us.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Keeping Your Christ Sanity In a Press World",
+        "slug": "keeping-your-christ-sanity-in-a-press-world",
+        "image_url": "sanity.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkwOTMyNl8/Keeping%20Your%20Christ%20Sanity%20in%20a%20Press%20World%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkwOTMzN18/Keeping%20Your%20Christ%20Sanity%20in%20a%20Press%20World%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNTkwOTM0N18/Keeping%20Your%20Christ%20Sanity%20in%20a%20Press%20World%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNTkwOTM1NF8/Keeping%20Your%20Christ%20Sanity%20in%20a%20Press%20World%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNTkwOTM2Nl8/Keeping%20Your%20Christ%20Sanity%20in%20a%20Press%20World%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNTkwOTM3OF8/Keeping%20Your%20Christ%20Sanity%20in%20a%20Press%20World%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNTkwOTMxOF8/Keeping%20Your%20Christ%20Sanity%20in%20a%20Press%20World%20Track%207.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Taking Responsibilities In Prayers",
+        "slug": "taking-responsiblities-in-prayers",
+        "image_url": "trp.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMyNDgzNV8/Taking%20Up%20Responsibilities%20In%20Prayers%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjMyNDM4OF8/Taking%20Up%20Responsibilities%20In%20Prayers%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjMyNDU1MV8/Taking%20Up%20Responsibilities%20In%20Prayers%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Why Sound Doctrine?",
+        "slug": "why-sound-doctrine",
+        "image_url": "wsd.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1NTY1NF8/Why-Sound-Doctrine.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Utterance Gift",
+        "slug": "utterance-gift",
+        "image_url": "utterance.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxNV8/Utterance%20Gift%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxNl8/Utterance%20Gift%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjIxMTA1MzBf/Utterance%20Gift%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Total Minister",
+        "slug": "the-total-minister",
+        "image_url": "total.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjM0NjYwNF8/The%20Total%20Minister.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Love Not The World",
+        "description": "Series 2",
+        "slug": "love-not-the-world-series-2",
+        "image_url": "lntw2.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkxMDQ4OF8/Love%20not%20the%20World%20series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkxMDQ4OV8/Love%20not%20the%20World%20series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjI3MjY3Nl8/Love%20Not%20the%20World%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjI3MjY4N18/Love%20Not%20the%20World%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjI3MjcwN18/Love%20Not%20the%20World%20Series%202%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNTkxMDQ4N18/Love%20Not%20the%20world%20Series%202%20Track%206.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "It's Not Impossible",
+        "slug": "its-not-impossible",
+        "image_url": "ini.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODQ0ODg2NF8/It%27s%20Not%20Impossible%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODQ0ODYwNF8/It%27s%20not%20Impossible%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Love and Self",
+        "slug": "love-and-self",
+        "image_url": "loveself.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMwMjA5OF8/Love%20And%20Self%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjMwMjEwMl8/Love%20And%20Self%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjMwMjExN18/Love%20And%20Self%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Maintaining Your In-Christ Sanity",
+        "slug": "maintaining-your-in-christ-sanity",
+        "image_url": "mycs.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkwOTAxOV8/Maintaining%20Your%20In-christ%20Sanity%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkwOTA2N18/Maintaining%20Your%20In-christ%20Sanity%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNTkwOTA1OF8/Maintaining%20Your%20In-christ%20Sanity%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "No Compromise",
+        "slug": "no-compromise",
+        "image_url": "compromise.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1NjM3OV8/No-Compromise.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Not Slothful In Business",
+        "slug": "not-slothful-in-business",
+        "image_url": "nsib.jfif",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfODQxNjg0OF8/Not%20Slothful%20in%20Business%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfODQxNjg5MV8/Not%20Slothful%20in%20Business%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfODQxNzA1MF8/Not%20Slothful%20in%20Business%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Offices",
+        "description": "Series 2",
+        "slug": "offices-series-2",
+        "image_url": "offices2.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkwOTQ2M18/Offices%20Series%202%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkwOTQ3MF8/Offices%20Series%202%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNTkwOTQ3N18/Offices%20Series%202%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNTkwOTUyOF8/Offices%20Series%202%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNTkwOTU0MF8/Offices%20Series%202%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNTkwOTU0OF8/Offices%20Series%202%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNTkwOTYwOV8/Offices%20Series%202%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNTkwOTYxNV8/Offices%20Series%202%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNTkwOTYyNF8/Offices%20Series%202%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfNTkwOTQ1Ml8/Offices%20Series%202%20Track%2010.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Offices",
+        "description": "Series 3",
+        "slug": "offices-series-3",
+        "image_url": "offices3.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ1MDg4N18/Offices%20Series%203%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ1MDkyM18/Offices%20Series%203%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ1MTEyOF8/Offices%20Series%203%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjQ1MDUyMl8/Offices%20Series%203%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjQ1MDU5MF8/Offices%20Series%203%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjQ1MDY3MV8/Offices%20Series%203%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjQ1MDcyNV8/Offices%20Series%203%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjQ1MDc1M18/Offices%20Series%203%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjQ1MDc5Nl8/Offices%20Series%203%20Track%209.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Why Bad Things Happen To Christians",
+        "slug": "why-bad-things-happen-to-christians",
+        "image_url": "badthings.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMwOTY1N18/Why%20Do%20Bad%20Things%20Happen%20To%20Christians%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjMwOTE3OV8/Why%20Do%20Bad%20Things%20Happen%20To%20Christians%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjMwOTIzMl8/Why%20Do%20Bad%20Things%20Happen%20To%20Christians%20Track%203.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Understanding Genesis",
+        "description": "Series 3",
+        "slug": "understanding-genesis-series-3",
+        "image_url": "genesis3.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMwMTAxOF8/Understanding%20Genesis%20Series%203%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjMwMTEzOF8/Understanding%20Genesis%20Series%203%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjMwMTE1NF8/Understanding%20Genesis%20Series%203%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfODQyMjk5NF8/Understanding%20Genesis%20Series%203%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjMwMTE5Nl8/Understanding%20Genesis%20Series%203%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjMwMTIyOV8/Understanding%20Genesis%20Series%203%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjMwMTI0Nl8/Understanding%20Genesis%20Series%203%20Track%207.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Teaching Ministry Of Jesus",
+        "slug": "the-teaching-ministry-of-jesus",
+        "image_url": "tmojes.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjMwMDQ4Ml8/The%20Teaching%20Ministry%20Of%20Jesus%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjI3NTg3N18/The%20Teaching%20Ministry%20Of%20Jesus%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjI3NTg5Ml8/The%20Teaching%20Ministry%20of%20Jesus%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjI3NTkwMV8/The%20Teaching%20Ministry%20of%20Jesus%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjMwMDUxNF8/The%20Teaching%20Ministry%20Of%20Jesus%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjMwMDU0NV8/The%20Teaching%20Ministry%20Of%20Jesus%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjI3ODY3N18/The%20Teaching%20Ministry%20Of%20Jesus%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjI3ODY5MV8/The%20Teaching%20Ministry%20Of%20Jesus%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjI3ODY5N18/The%20Teaching%20Ministry%20Of%20Jesus%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfNjI3ODcwMl8/The%20Teaching%20Ministry%20of%20Jesus%20Track%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfNjMwMDMzMV8/The%20Teaching%20Ministry%20of%20Jesus%20Track%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfNjMwMDM5NV8/The%20Teaching%20Ministry%20of%20Jesus%20Track%2012.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/s/MzJfNjMwMDQ3M18/The%20Teaching%20Ministry%20of%20Jesus%20Track%2013.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/d/MzJfNjMwMDMwNl8/The%20Teaching%20Ministry%20Of%20Jesus%20Track%2014.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/s/MzJfNjMwMDMyM18/The%20Teaching%20Ministry%20Of%20Jesus%20Track%2015.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/s/MzJfNjMwMDMyNl8/The%20Teaching%20Ministry%20Of%20Jesus%20Track%2016.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Preacher's Portfoliio",
+        "slug": "the-preachers-portfolio",
+        "image_url": "portfolio.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNTkwOTExMl8/The-Preachers-porfolio-Track-1.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNTkwOTEzMV8/The-Preachers-porfolio-Track-2.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNTkwOTE0MF8/The-Preachers-porfolio-Track-3.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNTkwOTE0OF8/The-Preachers-Portfolio-Track-4.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNTkwOTE1NV8/The-Preachers-Portfolio-Track-5.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNTkwOTIwMl8/The-Preachers-Portfolio-Track-6.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNTkwOTIyM18/The-Preachers-Portfolio-Track-7.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNTkwOTI0MV8/The-Preachers-portfolio-Track-8.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Common Good",
+        "slug": "the-common-good",
+        "image_url": "commongood.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxOF8/The%20Common%20Good%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ4NDMxOV8/The%20Common%20Good%20Track%202.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Pre and Post Maritals",
+        "slug": "pre-and-post-maritals",
+        "image_url": "ppm.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjY1MzA4N18/Pre%20and%20Post%20Maritals%20in%20Christ%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjY1MzMzM18/Pre%20and%20Post%20Maritals%20in%20Christ%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjY1MzY2N18/Pre%20and%20Post%20Maritals%20in%20Christ%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjY1MjQwNl8/Pre%20and%20Post%20Maritals%20in%20Christ%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjY1MjQ4Nl8/Pre%20and%20Post%20Maritals%20in%20Christ%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjY1MjYzNF8/Pre%20and%20Post%20Maritals%20in%20Christ%20Track%206.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Our Salvation",
+        "description": "Series 4",
+        "slug": "our-salvation-series-4",
+        "image_url": "salvation.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc3NF8/Our%20Salvation%20Series%204%20Track%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc3NV8/Our%20Salvation%20Series%204%20Track%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc3Nl8/Our%20Salvation%20Series%204%20Track%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc2NV8/Our%20Salvation%20Series%204%20Track%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc2MV8/Our%20Salvation%20Series%204%20Track%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc2Ml8/Our%20Salvation%20Series%204%20Track%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc2Nl8/Our%20Salvation%20Series%204%20Track%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc2N18/Our%20Salvation%20Series%204%20Track%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc3MV8/Our%20Salvation%20Series%204%20Track%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfNjQ4Nzc3Ml8/Our%20Salvation%20Series%204%20Track%2010.mp3"
+            }
+        ],
+        "year": "2019",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    }
+]

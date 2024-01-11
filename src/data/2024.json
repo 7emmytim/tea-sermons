@@ -1,1 +1,28 @@
-[]
+[
+    {
+        "series": "New Times and Seasons",
+        "slug": "new-times-and-seasons",
+        "image_url": "new-times-and-seasons.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "The Deceit of Time",
+                "url": "https://od.lk/d/MzJfMjQyNzE4OTdf/New%20Times%20and%20Seasons%20%28The%20Deceit%20of%20Time%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "When To Stretch Time",
+                "url": ""
+            },
+            {
+                "track_number": 3,
+                "title": "Appointed Time",
+                "url": ""
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    }
+]

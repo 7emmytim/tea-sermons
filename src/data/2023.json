@@ -1,1 +1,558 @@
-[]
+[
+    {
+        "series": "Kubwa Believers' Meeting",
+        "description": "2023",
+        "slug": "kubwa-believers-meeting",
+        "image_url": "kubwa-23.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Day 1",
+                "url": "https://od.lk/d/MzJfMjM4MzMzNzdf/Kubwa%20Believers%27%20Meeting%20-%20Day%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "Day 2",
+                "url": "https://od.lk/d/MzJfMjM4MzMzNDVf/Kubwa%20Believers%27%20Meeting%20-%20Day%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "title": "Day 3",
+                "url": "https://od.lk/d/MzJfMjM4MzMzNzRf/Kubwa%20Believers%27%20Meeting%20-%20Day%203.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Prayer Meetings",
+        "slug": "prayer-meetings",
+        "image_url": "prayer-meetings.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Contending For The Faith",
+        "description": "World Changers",
+        "slug": "contending-for-the-faith-world-changers",
+        "image_url": "world-changers.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Me, Myself & I",
+        "slug": "me-myself-and-i",
+        "image_url": "mmai.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Workers Workshop",
+        "slug": "workers-workshop",
+        "image_url": "wr.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Session 1",
+                "url": "https://od.lk/s/MzJfMjI1NzMwNzZf/Last%20session-%20Workers%27workshop.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Common Good",
+        "slug": "the-common-good",
+        "image_url": "tcg.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI5MjA0Mzlf/The%20Common%20Good%20-%20Series%202%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI5MjA0NjNf/The%20Common%20Good%20%28Series%202%20-%20Part%202%29.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Victory By The Blood",
+        "slug": "victory-by-the-blood",
+        "image_url": "vbtb.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMzMDgwMjdf/Victory%20By%20The%20Blood.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjMzMTM1OTRf/Victory%20By%20The%20Blood%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjMzMDgwMjdf/Victory%20By%20The%20Blood.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Staying Grateful",
+        "slug": "staying-grateful",
+        "image_url": "sgrateful.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNTM2NzVf/Staying%20Grateful.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Staying True To Spiritual Growth",
+        "slug": "staying-true-to-spiritual-growth",
+        "image_url": "sttsg.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNjk3MTFf/Staying%20True%20To%20Spritual%20Growth%20.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Staying Above Offences",
+        "slug": "staying-above-offences",
+        "image_url": "sbo.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI1NzE3NDBf/Staying%20Above%20Offences%20%28In%20the%20Church%29.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Practical Soul Winning",
+        "slug": "practical-soul-winning",
+        "image_url": "psw.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI3NjA3NDBf/Practical%20Soul%20Winning.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI3NjA3Mzhf/Practical%20Soul%20Winning-%20Part%202.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Why Fasting And Prayers",
+        "slug": "why-fasting-and-prayers",
+        "image_url": "wpf.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Ministers' Retreat",
+        "description": "2023",
+        "slug": "ministers-retreat",
+        "image_url": "mr.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Excellence In Christian Service",
+        "slug": "excellence-in-christian-service",
+        "image_url": "eics.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI3NjQ0OTVf/EXCELLENCE%20IN%20CHRISTIAN%20SERVICE.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI3NjQ0OTZf/Excellence%20In%20Christian%20Service%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjMyNTM4NjZf/Excellence%20%20In%20%20Christian%20Service%20%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjMyNTM4ODJf/Excellence%20%20In%20Chistian%20Service%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjI4MjExNTNf/Excellence%20In%20Christian%20Service%20-%20Part%205%20%28Excellence%20In%20The%20Things%20of%20The%20Spirit%29.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Making Your Life Count For The Gospel",
+        "slug": "making-your-life-count-for-the-gospel",
+        "image_url": "mylcftg.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNTI2Mjhf/Making%20Your%20Life%20Count%20For%20The%20Gospel.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Dealing With Care, Fears and Anxiety",
+        "slug": "dealing-with-care-fear-and-anxiety",
+        "image_url": "dwcfp.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Meetings",
+        "slug": "meetings",
+        "image_url": "meetings.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI1NzQ1NTNf/Meetings%20%28Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI1OTI1MDlf/Meetings%20%28Part%202%29.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Making Your Life Count For God",
+        "slug": "making-your-life-count-for-god",
+        "image_url": "mylcfg.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjMyNTM1MTBf/Making%20Your%20Life%20Count%20For%20God.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Making The Best Use of Your Prime",
+        "slug": "making-the-best-use-of-your-prime",
+        "image_url": "mtbuoyp.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNTM4OTFf/Making%20The%20Most%20of%20%20Your%20Prime.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Jesus - The Light of The World",
+        "slug": "jesus-the-light-of-the-world",
+        "image_url": "jtlotw.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI5MjM1MjBf/Jesus%20The%20Light%20of%20The%20%20World.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Honor For All",
+        "slug": "honor-for-all",
+        "image_url": "hfa.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI1NzM3NjBf/Honour%20For%20All.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjMyNzY0NjVf/Honour%20For%20All-%20Part%20%202.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Fervency Over Laxity",
+        "slug": "fervency-over-laxity",
+        "image_url": "fol.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNjk4MjNf/Fervency%20Over%20Laxity.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Why We Serve God",
+        "slug": "why-we-serve-god",
+        "image_url": "wwsg.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyMDEyNzBf/WHY%20WE%20SERVE%20GOD%20-%20Omoba%20Temitope%20Thompson%20_%20Facebook.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Christian Songs and Worship",
+        "description": "2023",
+        "slug": "christian-songs-and-worship-2023",
+        "image_url": "jtlotw.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjMyNTM4NTZf/Christian%20Songs%20and%20Worship.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjMyNDY1NjRf/Christian%20Songs%20And%20Worship-%20Pastor%20Omoba.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Christian Values",
+        "slug": "christian-values",
+        "image_url": "cv.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI5MTc3OTFf/Christian%20Values.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Gospel According To The Prophets",
+        "description": "Exodus",
+        "slug": "the-gospel-according-to-the-prophets-exodus",
+        "image_url": "exodus.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Wall",
+        "description": "Orthodoxy",
+        "slug": "breaking-dividing-walls-orthodoxy",
+        "image_url": "orthodoxy.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Voice of Time",
+        "slug": "the-voice-of-time",
+        "image_url": "tvt.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjIzODQ3MzNf/The%20Voice%20Of%20Time.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjIzODQ3OTNf/The%20Voice%20Of%20Time%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjI0MDQ2NjVf/The%20Voice%20of%20Time%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The God Factor",
+        "slug": "the-god-factor",
+        "image_url": "tgf.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI1MDEyMTZf/The%20God%20Factor%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI1MDU1MzNf/The%20God%20Factor%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjMyNzUxMThf/The%20God%20Factor%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjI1MzMwOTJf/The%20God%20Factor%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjMyNTI2MjNf/The%20God%20Factor%20-%20Part%205.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Care",
+        "slug": "gods-care",
+        "image_url": "gc.jpg",
+        "tracks": [],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Riches",
+        "slug": "gods-riches",
+        "image_url": "gr.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjMzOTY0OThf/God%27s%20Riches.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjM0Mjc3MjZf/God%27s%20Riches%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Believer's Accountability In The Charismatic Ministry",
+        "slug": "the-believers-accountability-in-the-charismatic-ministry",
+        "image_url": "tbaitcm.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjMzOTY3MjJf/The%20Believer%27s%20Accountability%20In%20The%20Charismatic%20Ministry.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Making The Best Of Discipleship",
+        "description": "2023",
+        "slug": "making-the-best-of-discipleship-2023",
+        "image_url": "mtbod.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM0MzczMzVf/Making%20The%20Best%20Of%20Discipleship.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Intelligence In The Things Of The Spirit",
+        "slug": "intelligence-in-the-things-of-the-spirit",
+        "image_url": "iittots.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM1MDM5NDdf/Intelligence%20In%20The%20Things%20Of%20The%20Spirit.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    }
+]

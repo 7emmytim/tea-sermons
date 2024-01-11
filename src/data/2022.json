@@ -1,1 +1,513 @@
-[]
+[
+    {
+        "series": "Our Christmas",
+        "slug": "our-christmas",
+        "image_url": "oc.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjIzOTY5NDlf/Our%20Christmas.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Christian Confession",
+        "slug": "the-christian-confession",
+        "image_url": "tcc.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI0OTk0MjJf/Christian%20Confession%20-Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI0OTkyNDZf/Christian%20Confession%20-Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjI0OTkzMTNf/Christian%20Confession%20-Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjI0OTkzMjhf/Christian%20Confession%20-Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjI0OTkzOThf/Christian%20Confession%20-Part%205.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Contending For The Faith",
+        "description": "Light Bearer",
+        "slug": "contending-for-the-faith-light-bearer",
+        "image_url": "light.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI0MTI3Mzlf/Contending%20For%20The%20Faith%20-%20Light%20Bearer%20%28Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI0MTI3MzZf/Contending%20For%20The%20Faith%20-%20Light%20Bearer%20%28Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjI0MTI3MzVf/Contending%20For%20The%20Faith%20-%20Light%20Bearer%20%28Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjI0MTI3MzRf/Contending%20For%20The%20Faith%20-%20Light%20Bearer%20%28Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjI0MTI3MzNf/Contending%20For%20The%20Faith%20-%20Light%20Bearer%20%28Part%205%29.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Gospel According To The Prophets",
+        "description": "Genesis",
+        "slug": "the-gospel-according-to-the-prophets-genesis",
+        "image_url": "tgattpgen.jpg",
+        "tracks": [],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Making Progress",
+        "slug": "making-progress",
+        "image_url": "Making.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjIxMTQ5ODRf/Making%20Progress%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjIxMTMyNjRf/Making%20Progress%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Stopping Demonic Activities",
+        "description": "Series 3",
+        "slug": "stopping-demonic-activities-series-3",
+        "image_url": "sda3.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjIxMTMxOTRf/Stopping%20Demonic%20Activities%20-%20%28Series%203%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjIxMTMxOTVf/Stopping%20Demonic%20Activities%20-%20%28Series%203%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjIxMTMyMTdf/Stopping%20Demonic%20Activities%20-%20%28Series%203%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjIxMTMyMjFf/Stopping%20Demonic%20Activities%20-%20%28Series%203%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjIxMTMyMzVf/Stopping%20Demonic%20Activities%20-%20%28Series%203%20-%20Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjI0MDQ2Mzlf/Stopping%20Demonic%20Activities%20%28Series%203%20-%20Part%206%29.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "SSS",
+        "description": "2022",
+        "slug": "sss-2022",
+        "image_url": "sss.jpg",
+        "tracks": [],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Maximizing The Spirituals",
+        "description": "Meetings",
+        "slug": "maximizing-the-spirituals-meetings",
+        "image_url": "mts - Meetings.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE5Njc5MTVf/Maximizing%20The%20Spirituals%20Meetings%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE5Njc5MTZf/Maximizing%20The%20Spirituals%20Meetings%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE5Njc5MTdf/Maximizing%20The%20Spirituals%20Meetings%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": "3B",
+                "url": "https://od.lk/s/MzJfMjE5NjkxNzFf/Maximizing%20The%20Spirituals%20Meetings%20-%20Part%203b.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE5Njc5MThf/Maximizing%20The%20Spirituals%20Meetings%20-%20Part%204.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Christology",
+        "slug": "christology",
+        "image_url": "christology.jpg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MjI4ODNf/Christology%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MjI4ODRf/Christology%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MjgxNjRf/Christology%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MjgxNjNf/Christology%20-%20Part%204.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Gospel According To The Prophets",
+        "description": "Series 1 - Isaiah",
+        "slug": "the-gospel-according-to-the-prophets-isaiah",
+        "image_url": "tgattp.jpeg",
+        "tracks": [],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Believer And His Relationships",
+        "slug": "the-believer-and-his-relationships",
+        "image_url": "tbhr.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTM1Nzlf/The%20Believer%20And%20His%20Relatioships%20-%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTM1ODBf/The%20Believer%20And%20His%20Relatioships%20-%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjE1MTkzNTJf/The%20Believer%20And%20His%20Relationships%20-%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MTM1ODJf/The%20Believer%20And%20His%20Relationships%20-%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MTM1ODFf/The%20Believer%20And%20His%20Relatioships%20-%205.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Teaching Ministry of Jesus",
+        "description": "Series 3",
+        "slug": "the-teaching-ministry-of-jesus-series-3",
+        "image_url": "ttmoj3.jpeg",
+        "tracks": [],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Our Salvation",
+        "description": "Series 5",
+        "slug": "our-salvation-series-5",
+        "image_url": "os5.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDBf/Our%20Salvation%20Series%205%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDFf/Our%20Salvation%20Series%205%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDJf/Our%20Salvation%20Series%205%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MTMxOTJf/Our%20Salvation%20Series%205%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MTMxOTNf/Our%20Salvation%20Series%205%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjE1MTMxOTRf/Our%20Salvation%20Series%205%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjE1MTMxOTVf/Our%20Salvation%20Series%205%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjE1MTMxOTZf/Our%20Salvation%20Series%205%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMjE1MTMxOTdf/Our%20Salvation%20Series%205%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMjE1MTMxOThf/Our%20Salvation%20Series%205%20Part%2010.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Understanding Genesis",
+        "description": "Series 5",
+        "slug": "understanding-genesis-series-5",
+        "image_url": "ug5.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTUwODBf/Understanding%20Genesis%20%28Series%205%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTUwODFf/Understanding%20Genesis%20%28Series%205%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNzVf/Understanding%20Genesis%20%28Series%205%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNzZf/Understanding%20Genesis%20%28Series%205%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNzdf/Understanding%20Genesis%20%28Series%205%20-%20Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNzhf/Understanding%20Genesis%20%28Series%205%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNzlf/Understanding%20Genesis%20%28Series%205%20-%20Part%207%29.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjE1MTUwODJf/Understanding%20Genesis%20%28Series%205%20-%20Part%208%29.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Theocratic Nature of The Local Church",
+        "description": "Series 2",
+        "slug": "the-theocratic-nature-of-the-local-church-series-2",
+        "image_url": "ttnotl2.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTUwMzZf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTUwMzBf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MTUwMzFf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MTUwMzJf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MTUwMzRf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNDlf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNDZf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNDdf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMjE1MTUwNDhf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMjE1MTUwMzVf/Theocratic%20Nature%20of%20the%20Local%20Church%20-%20Series%202%20-%20Part%2010.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Father's Care",
+        "slug": "the-fathers-care",
+        "image_url": "tfc.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDhf/The%20Father%27s%20Care%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDlf/The%20Father%27s%20Care%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDRf/The%20Father%27s%20Care%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDZf/The%20Father%27s%20Care%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMDdf/The%20Father%27s%20Care%20Part%205.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Thy Kingdom Come",
+        "slug": "thy-kingdom-come",
+        "image_url": "tkc.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMTNf/Thy%20Kingdom%20Come%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMTRf/Thy%20Kingdom%20Come%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMTBf/Thy%20Kingdom%20Come%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMTFf/Thy%20Kingdom%20Come%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MTMyMTJf/Thy%20Kingdom%20Come%20Part%205.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Walking In Dominion",
+        "slug": "walkikng-in-dominion",
+        "image_url": "wid.jpeg",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTM5ODNf/Walking%20In%20Dominion%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTM5NzZf/Walking%20In%20Dominion%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MTM5Nzhf/Walking%20In%20Dominion%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Breaking Dividing Wall",
+        "description": "Legalism",
+        "slug": "breaking-dividing-walls-legalism",
+        "image_url": "legalism.jpeg",
+        "tracks": [],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    }
+]
