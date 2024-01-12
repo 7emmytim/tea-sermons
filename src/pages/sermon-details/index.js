@@ -21,7 +21,7 @@ export function SermonDetails({ param }) {
         <p>All Sermons</p>
       </a>
       <h1 className="text-center font-bold text-3xl mt-10">{sermon.series}</h1>
-      <section className="bg-gray-50 py-5 rounded-lg mt-5">
+      <section className="py-5 rounded-lg mt-5">
         <div className="divide-y divide-gray-100">
           {sermon.tracks.map(({ title, track_number, url }) => (
             <a
@@ -29,7 +29,7 @@ export function SermonDetails({ param }) {
               href={url}
               target="_blank"
               rel="noreferrer"
-              className="flex justify-between gap-x-6 py-5 px-5 sm:px-10 cursor-pointer hover:bg-white"
+              className="flex items-center justify-between gap-x-6 py-5 px-5 sm:px-10 cursor-pointer hover:bg-gray-50"
             >
               <div className="flex min-w-0 gap-x-4">
                 <div className="min-w-0 flex-auto">
