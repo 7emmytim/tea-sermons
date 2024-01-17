@@ -1,8 +1,46 @@
 [
     {
+        "series": "His Own Way",
+        "slug": "his-own-way",
+        "image_url": "",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM5MDUyOTlf/His%20Own%20Way.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "Our Lives and Prophecies",
+        "slug": "our-lives-and-prophecies",
+        "image_url": "",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM4ODU0MTNf/Our%20Lives%20and%20Prophecies%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjM4ODU0MTdf/Our%20Lives%20and%20Prophecies%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjM4ODU0MjBf/Our%20Lives%20and%20Prophecies%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
         "series": "Kubwa Believers' Meeting",
         "description": "2023",
-        "slug": "kubwa-believers-meeting",
+        "slug": "kubwa-believers-meeting-2023",
         "image_url": "kubwa-23.png",
         "tracks": [
             {
@@ -27,10 +65,74 @@
         ]
     },
     {
+        "series": "Family Army",
+        "slug": "family-army",
+        "image_url": "family-army.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM4MTI2ODFf/Family%20Army%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjM3MzQyNDVf/Family%20Army%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjM2OTQ0MjNf/FAMILY%20ARMY%20PART%203.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
         "series": "Prayer Meetings",
         "slug": "prayer-meetings",
         "image_url": "prayer-meetings.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM1NDg2ODRf/Prayer%20Meetings%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjM3MzU0ODNf/Prayer%20Meetings%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjM3MzU0ODNf/Prayer%20Meetings%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjM3MzU1MTFf/Prayer%20Meetings%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjM1OTA4OTlf/Prayer%20Meetings%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjM3MzU0NTNf/Prayer%20Meetings%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMjM3MzU0NjBf/Prayer%20Meetings%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/d/MzJfMjM3MzU0ODNf/Prayer%20Meetings%20-%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/d/MzJfMjM3MzU0Nzlf/Prayer%20Meetings%20-%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/d/MzJfMjM3MzU0ODFf/Prayer%20Meetings%20-%20Part%2010.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -41,7 +143,55 @@
         "description": "World Changers",
         "slug": "contending-for-the-faith-world-changers",
         "image_url": "world-changers.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM0NzYwOTlf/Contending%20For%20The%20Faith%20-%20World%20Changers.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjM0MTAzNDBf/Contending%20For%20The%20Faith%20-%20World%20Changers%20%28Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjM0MTYwNjJf/Contending%20For%20The%20Faith%20-%20World%20ChangersPart%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjM0NzUyNTlf/Contending%20For%20The%20Faith%20%28World%20Changers%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjM0OTY2MThf/Contending%20For%20The%20Faith%20%28World%20Changers%20-%20Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjM1MzYwNzRf/Contending%20For%20The%20Faith%20%28World%20Changers%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMjM1Mzg2NzRf/Contending%20For%20The%20Faith%20%28World%20Changers%20-%20Part%207%29.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/d/MzJfMjM3MzQ1NTVf/Contending%20for%20the%20faith%20-%20world%20changers%20-%20Part%208.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Responsibility",
+        "slug": "responsibility",
+        "image_url": "",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM3MzQ0Njlf/Responsibility.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -51,7 +201,16 @@
         "series": "Me, Myself & I",
         "slug": "me-myself-and-i",
         "image_url": "mmai.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjMzNDMxODNf/Me%2C%20Myself%20%26%20I.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjMzNTAzMDFf/Me%2C%20Myself%20and%20I%20%28Part%202%29.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -183,7 +342,16 @@
         "series": "Why Fasting And Prayers",
         "slug": "why-fasting-and-prayers",
         "image_url": "wpf.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjMyNTM4NjJf/Why%20Fasting%20and%20Prayers%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjI3NjQ0OThf/Why%20Fasting%20and%20Prayers%20%28Part%201%29.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -194,7 +362,23 @@
         "description": "2023",
         "slug": "ministers-retreat",
         "image_url": "mr.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Day 1",
+                "url": "https://od.lk/s/MzJfMjI2Mjk3OTBf/Ministers%20Conference%20-%20Day%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "Day 2",
+                "url": "https://od.lk/s/MzJfMjI2Mjk3OTFf/Ministers%20Conference%20-%20Day%202%20Session%201.mp3"
+            },
+            {
+                "track_number": 3,
+                "title": "Day 3",
+                "url": "https://od.lk/s/MzJfMjI2Mjk3OTJf/Ministers%20Conference%20-%20Day%203%20Session%201.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -250,7 +434,12 @@
         "series": "Dealing With Care, Fears and Anxiety",
         "slug": "dealing-with-care-fear-and-anxiety",
         "image_url": "dwcfp.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjI2NjI0Mjlf/Dealing%20With%20Cares%2C%20Fears%20and%20Pressures.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -409,7 +598,168 @@
         "description": "Exodus",
         "slug": "the-gospel-according-to-the-prophets-exodus",
         "image_url": "exodus.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI4MTkxNDZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI5MjM1MTNf/The%20Gospel%20Acoording%20To%20The%20Prophets%20%28Series%203%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjI5MjM1Mzhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjMyNDY1OTlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjMyNDY2MTRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjMyNDY2MTRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjMyNDY2MzNf/The%20Gospel%20According%20To%20The%20Prophets%20-%20%28Series%203%20-%20Part%207%29.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjMyNDY2NTdf/The%20Gospel%20According%20To%20The%20Prophets%20-%20%28Series%203%20-%20Part%208%29.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMjMyMDE4MDhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%209%29.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMjMyNzY0NzRf/The%20Gospel%20According%20To%20The%20Prophets%20-%20%28Series%203%20-%20Part%2010%29.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfMjMyNzY0OTFf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2011%29.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfMjMyNjk3ODNf/The%20Gospel%20According%20To%20The%20Prophets%20-%20%28Series%203%20-%20Part%2012%29.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/s/MzJfMjMyNDQxNzVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2013%29.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/d/MzJfMjMzNjYyNDBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2014%29%20.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/d/MzJfMjMzOTU5Njdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2015%29%20The%20Book%20of%20Exodus.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/d/MzJfMjMzOTU3NzRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2016%29%20The%20Book%20of%20Exodus.mp3"
+            },
+            {
+                "track_number": 17,
+                "url": "https://od.lk/s/MzJfMjMzMDk1NDNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2017%29%20The%20Book%20of%20Exodus.mp3"
+            },
+            {
+                "track_number": 18,
+                "url": "https://od.lk/s/MzJfMjMzMDk1NDRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2018%29%20The%20Book%20of%20Exodus.mp3"
+            },
+            {
+                "track_number": 19,
+                "url": "https://od.lk/s/MzJfMjMzMDk1Mzlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2019%29%20The%20Book%20of%20Exodus.mp3"
+            },
+            {
+                "track_number": 20,
+                "url": "https://od.lk/s/MzJfMjMzMTM2MDlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2020%29%20The%20Book%20of%20Exodus.mp3"
+            },
+            {
+                "track_number": 21,
+                "url": "https://od.lk/d/MzJfMjMzMzExNThf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2021%29%20mp3"
+            },
+            {
+                "track_number": 22,
+                "url": "https://od.lk/d/MzJfMjMzNjU2ODNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2022%29%20.mp3"
+            },
+            {
+                "track_number": 23,
+                "url": "https://od.lk/d/MzJfMjMzNjYyMDRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2023%29%20mp3"
+            },
+            {
+                "track_number": 24,
+                "url": "https://od.lk/d/MzJfMjMzNjc0MDZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2024%29%20.mp3"
+            },
+            {
+                "track_number": 25,
+                "url": "https://od.lk/d/MzJfMjMzNzE0NzFf/The%20%20Gospel%20Acoording%20To%20The%20Prophets%20-%20%20%28Series%203%20-%20Part%2025%29.mp3"
+            },
+            {
+                "track_number": 26,
+                "url": "https://od.lk/d/MzJfMjMzNzE0Njdf/The%20%20Gospel%20Acoording%20To%20The%20Prophets%20-%20%20%28Series%203%20-%20Part%2026%29.mp3"
+            },
+            {
+                "track_number": 27,
+                "url": "https://od.lk/d/MzJfMjMzNzE1Mjdf/The%20%20Gospel%20Acoording%20To%20The%20Prophets%20-%20%20%28Series%203%20-%20Part%2027%29.mp3"
+            },
+            {
+                "track_number": 28,
+                "url": "https://od.lk/d/MzJfMjM0MjM1NTlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2028%29.mp3"
+            },
+            {
+                "track_number": 29,
+                "url": "https://od.lk/d/MzJfMjM0MjM1OTZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2029%29.mp3"
+            },
+            {
+                "track_number": 30,
+                "url": "https://od.lk/d/MzJfMjM0Mjg2MTZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2030%29.mp3"
+            },
+            {
+                "track_number": 31,
+                "url": "https://od.lk/d/MzJfMjM0Mjg2MTBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2031%29.mp3"
+            },
+            {
+                "track_number": 32,
+                "url": "https://od.lk/d/MzJfMjM4MTI2OTJf/The%20Gospel%20Acoording%20To%20The%20Prophets%20%28Series%203%20-%20Part%2032%29.mp3"
+            },
+            {
+                "track_number": 33,
+                "url": "https://od.lk/d/MzJfMjM0OTM3MDVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2033%29.mp3"
+            },
+            {
+                "track_number": 34,
+                "url": "https://od.lk/d/MzJfMjM0OTY2MTNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2034%29.mp3"
+            },
+            {
+                "track_number": 35,
+                "url": "https://od.lk/d/MzJfMjM1MDM5NTlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2035%29.mp3"
+            },
+            {
+                "track_number": 36,
+                "url": "https://od.lk/d/MzJfMjM4MTI1NDNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2036%29.mp3"
+            },
+            {
+                "track_number": 37,
+                "url": "https://od.lk/d/MzJfMjM3MzQ2MzJf/The%20Gospel%20According%20To%20the%20Prophets%20%28Series%203%20-%20Part%2037%29.mp3"
+            },
+            {
+                "track_number": 38,
+                "url": "https://od.lk/d/MzJfMjM4MTI1NjRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2038%29.mp3"
+            },
+            {
+                "track_number": 39,
+                "url": "https://od.lk/d/MzJfMjM4MTI1ODdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2039%29.mp3"
+            },
+            {
+                "track_number": 40,
+                "url": "https://od.lk/d/MzJfMjM4MTI1OTdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2040%29.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -420,7 +770,57 @@
         "description": "Orthodoxy",
         "slug": "breaking-dividing-walls-orthodoxy",
         "image_url": "orthodoxy.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjIxOTAzMDNf/Breaking%20%20Dividing%20%20Walls%20Orthodoxy%20%28Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI0MDQ2NDFf/Breaking%20Dividing%20Walls%20%28Orthodoxy%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjI0MDQ2NDJf/Breaking%20Dividing%20Walls%20%28Orthodoxy%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjIzOTY5MTJf/Breaking%20Dividing%20Walls%20-%20Orthodoxy%20%28Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjIzOTY5MDBf/Breaking%20Dividing%20Walls%20-%20Orthodoxy%20%28Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjIzOTY4OTNf/Breaking%20%20Dividing%20%20Walls%20Orthodoxy-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjIzOTY4ODVf/Breaking%20Dividing%20Walls%20%20Orthodoxy%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjI0NjY3Njlf/Breaking%20Dividing%20Walls%20%20%28Orthodoxy%20-%20Part%208%29.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMjI0OTkzMTZf/Breaking%20Dividing%20Walls%20-%20Orthodoxy-Part-9.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMjI0MTM4NzNf/Breaking%20Dividing%20Walls%20%28Orthodoxy%20-%20Part%2010%29.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfMjI0MTM5MTFf/Breaking%20Dividing%20Walls%20%20%28Orthodoxy%20-%20Part%2011%29.mp3"
+            },
+            {
+                "track_number": 12,
+                "title": "Recap",
+                "url": "https://od.lk/s/MzJfMjI0MDQ2Mzdf/Recap%20On%20Breaking%20Dividing%20Walls%20Orthodoxy.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"
@@ -484,7 +884,32 @@
         "series": "God's Care",
         "slug": "gods-care",
         "image_url": "gc.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjI0NjcyNzJf/God%27s%20Care.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjI0NjcyNTlf/God%27s%20Care%20%28Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjI0NjcyNjZf/God%27s%20Care%20%28Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjI0NjY3NjNf/God%27s%20Care%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjI0NjY3NDBf/God%27s%20Care%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjMyNzY0NTVf/God%27s%20Care%20-%20Part%206.mp3"
+            }
+        ],
         "year": "2023",
         "preachers": [
             "Omoba Temitope"

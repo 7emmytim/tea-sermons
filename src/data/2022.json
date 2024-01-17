@@ -82,7 +82,208 @@
         "description": "Genesis",
         "slug": "the-gospel-according-to-the-prophets-genesis",
         "image_url": "tgattpgen.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjIxMTgzNzlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjIxMTgzNzhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjIxMTgzODFf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjIxMTgzOTZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjIxMTgzNzFf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjI0MDQ2NzJf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMjI0MDQ2NzNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%207%29.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/d/MzJfMjI0MDQ3MDhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%208%29.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/d/MzJfMjI0MDQ3MTBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%209%29.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/d/MzJfMjIxMzE4Mjdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2010%29.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/d/MzJfMjI0MDU0NTVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2011%29.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/d/MzJfMjI0MDU1NDRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2012%29.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/d/MzJfMjI0MDU2MTdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2013%29.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/d/MzJfMjI0MDU2NDlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2014%29.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/d/MzJfMjIxNjE3Mzlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2015%29.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/d/MzJfMjIxNzI4Njhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2016%29.mp3"
+            },
+            {
+                "track_number": 17,
+                "url": "https://od.lk/d/MzJfMjI0MDU2MzNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2017%29.mp3"
+            },
+            {
+                "track_number": 18,
+                "url": "https://od.lk/d/MzJfMjIyMjg5Nzhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2018%29.mp3"
+            },
+            {
+                "track_number": 19,
+                "url": "https://od.lk/d/MzJfMjI0MDU2NDBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2019%29.mp3"
+            },
+            {
+                "track_number": 20,
+                "url": "https://od.lk/d/MzJfMjI0MDU2NDVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2020%29.mp3"
+            },
+            {
+                "track_number": 21,
+                "url": "https://od.lk/d/MzJfMjI0MDU2ODlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2021%29.mp3"
+            },
+            {
+                "track_number": 22,
+                "url": "https://od.lk/d/MzJfMjI0MDU3MDBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2022%29.mp3"
+            },
+            {
+                "track_number": 23,
+                "url": "https://od.lk/d/MzJfMjI0MDU3MTBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2023%29.mp3"
+            },
+            {
+                "track_number": 24,
+                "url": "https://od.lk/d/MzJfMjIyNTYxODlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2024%29.mp3"
+            },
+            {
+                "track_number": 25,
+                "url": "https://od.lk/d/MzJfMjIyNTYxODRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2025%29.mp3"
+            },
+            {
+                "track_number": 26,
+                "url": "https://od.lk/d/MzJfMjI0MDU3NThf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2026%29.mp3"
+            },
+            {
+                "track_number": 27,
+                "url": "https://od.lk/d/MzJfMjI0MDU4MDlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2027%29.mp3"
+            },
+            {
+                "track_number": 28,
+                "url": "https://od.lk/d/MzJfMjI0MDU4MjVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2028%29.mp3"
+            },
+            {
+                "track_number": 29,
+                "url": "https://od.lk/d/MzJfMjI0MDU4Mjdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2029%29.mp3"
+            },
+            {
+                "track_number": 30,
+                "url": "https://od.lk/d/MzJfMjI0MDU4MzBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2030%29.mp3"
+            },
+            {
+                "track_number": 31,
+                "url": "https://od.lk/d/MzJfMjI0MDU4MzNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2031%29.mp3"
+            },
+            {
+                "track_number": 32,
+                "url": "https://od.lk/d/MzJfMjI0MDU4Mzlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2032%29.mp3"
+            },
+            {
+                "track_number": 33,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NDFf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2033%29.mp3"
+            },
+            {
+                "track_number": 34,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NDZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2034%29.mp3"
+            },
+            {
+                "track_number": 35,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NDlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2035%29.mp3"
+            },
+            {
+                "track_number": 36,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NTJf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2036%29.mp3"
+            },
+            {
+                "track_number": 37,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NTRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2037%29.mp3"
+            },
+            {
+                "track_number": 38,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NjVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2038%29.mp3"
+            },
+            {
+                "track_number": 39,
+                "url": "https://od.lk/d/MzJfMjI0MDU4Njlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2039%29.mp3"
+            },
+            {
+                "track_number": 40,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NzVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2040%29.mp3"
+            },
+            {
+                "track_number": 41,
+                "url": "https://od.lk/d/MzJfMjI0MDU4NzZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2041%29.mp3"
+            },
+            {
+                "track_number": 42,
+                "url": "https://od.lk/d/MzJfMjIzOTIxMTFf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2042%29.mp3"
+            },
+            {
+                "track_number": 43,
+                "url": "https://od.lk/d/MzJfMjIzOTIwNzdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2043%29.mp3"
+            },
+            {
+                "track_number": 44,
+                "url": "https://od.lk/d/MzJfMjI0MDI1Mzlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2044%29.mp3"
+            },
+            {
+                "track_number": 45,
+                "url": "https://od.lk/d/MzJfMjI0MDI1NDNf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2045%29.mp3"
+            },
+            {
+                "track_number": 46,
+                "url": "https://od.lk/d/MzJfMjI1NzA1Mjdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2046%29.mp3"
+            },
+            {
+                "track_number": 47,
+                "url": "https://od.lk/d/MzJfMjI1NzA1MzZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2047%29.mp3"
+            },
+            {
+                "track_number": 48,
+                "url": "https://od.lk/d/MzJfMjI1NzA1Mjhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2048%29.mp3"
+            },
+            {
+                "track_number": 49,
+                "url": "https://od.lk/d/MzJfMjI1NzI1NTlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2049%29.mp3"
+            },
+            {
+                "track_number": 50,
+                "url": "https://od.lk/d/MzJfMjI1NzI1MzZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%202%20-%20Part%2050%29.mp3"
+            }
+        ],
         "year": "2022",
         "preachers": [
             "Omoba Temitope"
@@ -148,7 +349,58 @@
         "description": "2022",
         "slug": "sss-2022",
         "image_url": "sss.jpg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Day 1 - Session 1",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NDRf/SSS%2722%20-%20Day%201%20-%20Session%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "Day 2 - Session 1",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NDVf/SSS%2722%20-%20Day%202%20-%20Session%201.mp3"
+            },
+            {
+                "track_number": 3,
+                "title": "Day 2 - Session 2",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NDZf/SSS%2722%20-%20Day%202%20-%20Session%202.mp3"
+            },
+            {
+                "track_number": 4,
+                "title": "Day 2 - Session 3",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NDdf/SSS%2722%20-%20Day%202%20-%20Session%203.mp3"
+            },
+            {
+                "track_number": 5,
+                "title": "Day 3 - Session 1",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NTBf/SSS%2722%20-%20Day%203%20-%20Session%201.mp3"
+            },
+            {
+                "track_number": 6,
+                "title": "Day 3 - Session 2",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NTFf/SSS%2722%20-%20Day%203%20-%20Session%202.mp3"
+            },
+            {
+                "track_number": 7,
+                "title": "Day 4 - Session 1",
+                "url": "https://od.lk/s/MzJfMjIwNjY3Mzdf/SSS%2722%20-%20Day%204%20-%20Session%201.mp3"
+            },
+            {
+                "track_number": 8,
+                "title": "Day 4 - Session 2",
+                "url": "https://od.lk/s/MzJfMjIwNjY3Mzhf/SSS%2722%20-%20Day%204%20-%20Session%202.mp3"
+            },
+            {
+                "track_number": 9,
+                "title": "Day 4 - Session 3",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NDBf/SSS%2722%20-%20Day%204%20-%20Session%203.mp3"
+            },
+            {
+                "track_number": 10,
+                "title": "Day 5 - Session 1",
+                "url": "https://od.lk/s/MzJfMjIwNjY3NDJf/SSS%2722%20-%20Day%205%20-%20Session%201.mp3"
+            }
+        ],
         "year": "2022",
         "preachers": [
             "Omoba Temitope"
@@ -218,7 +470,216 @@
         "description": "Series 1 - Isaiah",
         "slug": "the-gospel-according-to-the-prophets-isaiah",
         "image_url": "tgattp.jpeg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjE1MjU0Mzlf/The%20Gospel%20According%20To%20The%20Prophets%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjE1MjU0NDBf/The%20Gospel%20According%20To%20The%20Prophets%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjE1MjU0MzFf/The%20Gospel%20According%20To%20The%20Prophets%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjE1MjU0MzJf/The%20Gospel%20According%20To%20The%20Prophets%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NjNf/The%20Gospel%20According%20ToThe%20Prophets%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NjVf/The%20Gospel%20According%20ToThe%20Prophets%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NjZf/The%20Gospel%20According%20ToThe%20Prophets%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjE1MzU2Njdf/The%20Gospel%20According%20ToThe%20Prophets%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/d/MzJfMjE1MzU2Njhf/The%20Gospel%20According%20ToThe%20Prophets%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NzJf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfMjE1MjU0MzNf/The%20Gospel%20According%20To%20The%20Prophets%20Part%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfMjE1MjU0MzVf/The%20Gospel%20According%20To%20The%20Prophets%20Part%2012.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NTVf/The%20Gospel%20According%20To%20The%20Prophets%20Part%2013.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/s/MzJfMjE1MzU2Nzlf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2014.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/s/MzJfMjE1MzU2MjNf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2015.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/s/MzJfMjE1MzU2Mjhf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2016.mp3"
+            },
+            {
+                "track_number": 17,
+                "url": "https://od.lk/s/MzJfMjE1MzU2MzNf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2017.mp3"
+            },
+            {
+                "track_number": 18,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NDdf/The%20Gospel%20Acording%20ToThe%20Prophets%20Part%2018.mp3"
+            },
+            {
+                "track_number": 19,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NTJf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2019.mp3"
+            },
+            {
+                "track_number": 20,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NTNf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2020.mp3"
+            },
+            {
+                "track_number": 21,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NTRf/The%20Gospel%20According%20ToThe%20Prophets%20Part%2021.mp3"
+            },
+            {
+                "track_number": 22,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NTZf/The%20Gospel%20According%20To%20The%20Prophets%20Part%2022.mp3"
+            },
+            {
+                "track_number": 23,
+                "url": "https://od.lk/s/MzJfMjE1MzU2NTdf/The%20Gospel%20According%20To%20The%20Prophets%20Part%2023.mp3"
+            },
+            {
+                "track_number": 24,
+                "url": "https://od.lk/d/MzJfMjI5MTk5NThf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2024.mp3"
+            },
+            {
+                "track_number": 25,
+                "url": "https://od.lk/d/MzJfMjM2ODMxMjVf/The%20Gospel%20According%20To%20The%20Prophets%20Part%20-%2025.mp3"
+            },
+            {
+                "track_number": 26,
+                "url": "https://od.lk/d/MzJfMjM2ODMwMzNf/GAP%20Isaiah%20part%2026.mp3"
+            },
+            {
+                "track_number": 27,
+                "url": "https://od.lk/s/MzJfMjE2NTg2Njdf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2027.mp3"
+            },
+            {
+                "track_number": 28,
+                "url": "https://od.lk/s/MzJfMjE2NTg2Njhf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2028.mp3"
+            },
+            {
+                "track_number": 29,
+                "url": "https://od.lk/s/MzJfMjE2NTg2Njlf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2029.mp3"
+            },
+            {
+                "track_number": 30,
+                "url": "https://od.lk/s/MzJfMjE2NTg2MDNf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2030.mp3"
+            },
+            {
+                "track_number": 31,
+                "url": "https://od.lk/s/MzJfMjE2NTg2MjFf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2031.mp3"
+            },
+            {
+                "track_number": 32,
+                "url": "https://od.lk/s/MzJfMjE2NTg5ODNf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2032.mp3"
+            },
+            {
+                "track_number": 33,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NTJf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2033.mp3"
+            },
+            {
+                "track_number": 34,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NTVf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2034.mp3"
+            },
+            {
+                "track_number": 35,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NTZf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2035.mp3"
+            },
+            {
+                "track_number": 36,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NTdf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2036.mp3"
+            },
+            {
+                "track_number": 37,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NThf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2037.mp3"
+            },
+            {
+                "track_number": 38,
+                "url": "https://od.lk/d/MzJfMjI5MTk5MzNf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2038.mp3"
+            },
+            {
+                "track_number": 39,
+                "url": "https://od.lk/s/MzJfMjE1MjU1Njdf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2039.mp3"
+            },
+            {
+                "track_number": 40,
+                "url": "https://od.lk/s/MzJfMjE1MjU1NjFf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2040.mp3"
+            },
+            {
+                "track_number": 41,
+                "url": "https://od.lk/s/MzJfMjE1MjU1NTJf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2041.mp3"
+            },
+            {
+                "track_number": 42,
+                "url": "https://od.lk/s/MzJfMjE1MjU0Mzdf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2042.mp3"
+            },
+            {
+                "track_number": 43,
+                "url": "https://od.lk/s/MzJfMjE1MjU0Mzhf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2043.mp3"
+            },
+            {
+                "track_number": 44,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NjJf/The%20Gospel%20According%20To%20The%20Prophets%20Part%20-%2044.mp3"
+            },
+            {
+                "track_number": 45,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NjNf/The%20Gospel%20According%20To%20The%20Prophets%20Part%20-%2045.mp3"
+            },
+            {
+                "track_number": 46,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NjRf/The%20Gospel%20According%20To%20The%20Prophets%20Part%20-%2046.mp3"
+            },
+            {
+                "track_number": 47,
+                "url": "https://od.lk/s/MzJfMjE2NTg5NTJf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2047.mp3"
+            },
+            {
+                "track_number": 48,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NTlf/The%20Gospel%20According%20To%20The%20Prophets%20Part%20-%2048.mp3"
+            },
+            {
+                "track_number": 49,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NjBf/The%20Gospel%20According%20To%20The%20Prophets%20Part%20-%2049.mp3"
+            },
+            {
+                "track_number": 50,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NjZf/The%20Gospel%20According%20To%20The%20Prophets%20Part%20-%2050.mp3"
+            },
+            {
+                "track_number": 51,
+                "url": "https://od.lk/s/MzJfMjE2NTg2NjFf/The%20Gospel%20According%20To%20The%20prophets%20Part%20-%2051.mp3"
+            },
+            {
+                "track_number": 52,
+                "url": "https://od.lk/s/MzJfMjE2NTg5NDlf/The%20Gospel%20According%20To%20The%20Prophets%20-%20Part%2052.mp3"
+            }
+        ],
         "year": "2022",
         "preachers": [
             "Omoba Temitope"
@@ -260,7 +721,76 @@
         "description": "Series 3",
         "slug": "the-teaching-ministry-of-jesus-series-3",
         "image_url": "ttmoj3.jpeg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjRf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjBf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjFf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjZf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjJf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjdf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjhf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjlf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzBf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzFf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%2010.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzJf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%2011.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzNf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%2012.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzRf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%2013.mp3"
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzVf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%2014.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzZf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%2015.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNjNf/The%20Teaching%20Ministry%20of%20Jesus%203%20-%20Series%20-%20Part%2016.mp3"
+            },
+            {
+                "track_number": 17,
+                "url": "https://od.lk/s/MzJfMjE1MTkxNzdf/The%20Teaching%20Ministry%20of%20Jesus%20-%20Series%203%20-%20Part%2017.mp3"
+            }
+        ],
         "year": "2022",
         "preachers": [
             "Omoba Temitope"
@@ -504,7 +1034,44 @@
         "description": "Legalism",
         "slug": "breaking-dividing-walls-legalism",
         "image_url": "legalism.jpeg",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NTZf/BDW%20Legalism%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NTdf/BDW%20Legalism%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NThf/BDW%20Legalism-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NTlf/BDW%20Legalism-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NjBf/BDW%20Legalism-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NjFf/BDW%20Legalism-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NjJf/BDW%20Legalism-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NjNf/BDW%20Legalism-%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/s/MzJfMjE0NTI3NjRf/BDW%20Legalism-%20Part%209.mp3"
+            }
+        ],
         "year": "2022",
         "preachers": [
             "Omoba Temitope"

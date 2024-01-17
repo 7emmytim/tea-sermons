@@ -4,6 +4,21 @@ import { sermons_data } from "../../data";
 export function SermonDetails({ param }) {
   const sermon = sermons_data.find((item) => item.slug === param);
 
+  if (!sermon)
+    return (
+      <p className="h-screen flex items-center justify-center text-2xl">
+        Page not found ):
+      </p>
+    );
+
+  if (!sermon.tracks.length)
+    return (
+      <p className="h-screen flex items-center justify-center text-2xl">
+        Tracklist for * <span className="font-semibold"> {sermon.series} </span>{" "}
+        * is empty ):
+      </p>
+    );
+
   return (
     <main className="container max-w-3xl mx-auto pt-20">
       {/* <section className="mt-20">
@@ -13,10 +28,7 @@ export function SermonDetails({ param }) {
           className="rounded-lg w-full h-72 object-cover"
         />
       </section> */}
-      <a
-        href="/sermon-archives"
-        className="flex items-center gap-2 text-cyan-600"
-      >
+      <a href="/sermons" className="flex items-center gap-2 text-gray-600">
         <BackIcon />
         <p>All Sermons</p>
       </a>

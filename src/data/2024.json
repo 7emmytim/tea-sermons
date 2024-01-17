@@ -1,5 +1,20 @@
 [
     {
+        "series": "Righteousness Consciousness",
+        "slug": "righteousness-consciousness",
+        "image_url": "",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjQyOTg3MDVf/Righteousness%20Consciousness.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Seun"
+        ]
+    },
+    {
         "series": "New Times and Seasons",
         "slug": "new-times-and-seasons",
         "image_url": "new-times-and-seasons.png",
@@ -12,16 +27,21 @@
             {
                 "track_number": 2,
                 "title": "When To Stretch Time",
-                "url": ""
+                "url": "https://od.lk/d/MzJfMjQyNzI3NjVf/New%20Times%20and%20Seasons%20-%20Part%202%20%28When%20To%20Stretch%20Time%29.mp3"
             },
             {
                 "track_number": 3,
                 "title": "Appointed Time",
-                "url": ""
+                "url": "https://od.lk/d/MzJfMjQyOTQ4NDFf/New%20Times%20and%20Seasons%20-%20Part%203%20%28Appointed%20Time%29.mp3"
             },
             {
                 "track_number": 4,
                 "title": "The Sequence of Times",
+                "url": ""
+            },
+            {
+                "track_number": 5,
+                "title": "Process of Time",
                 "url": ""
             }
         ],
