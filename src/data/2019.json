@@ -153,7 +153,8 @@
         ]
     },
     {
-        "series": "Stopping Demonic Activity - Series 2",
+        "series": "Stopping Demonic Activities",
+        "description": "Series 2",
         "slug": "stopping-demonic-activity-series-2",
         "image_url": "sda2.jfif",
         "tracks": [

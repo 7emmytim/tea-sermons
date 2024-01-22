@@ -32,7 +32,9 @@ export function SermonDetails({ param }) {
         <BackIcon />
         <p>All Sermons</p>
       </a>
-      <h1 className="text-center font-bold text-3xl mt-10">{sermon.series}</h1>
+      <h1 className="text-center font-bold text-3xl mt-10">
+        {sermon.series} {sermon?.description ?? ""}
+      </h1>
       <section className="py-5 rounded-lg mt-5">
         <div className="divide-y divide-gray-100">
           {sermon.tracks.map(({ title, track_number, url }) => (
@@ -50,7 +52,7 @@ export function SermonDetails({ param }) {
                   </p>
                   <p className="mt-1 truncate text-xs leading-5 text-gray-500">
                     {/* {track.email} */}
-                    {sermon.preachers[0]}
+                    {/* {sermon.preachers[0]} */}
                   </p>
                 </div>
               </div>

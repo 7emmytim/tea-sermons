@@ -2,7 +2,7 @@
     {
         "series": "His Own Way",
         "slug": "his-own-way",
-        "image_url": "",
+        "image_url": "his-own-way.png",
         "tracks": [
             {
                 "track_number": 1,
@@ -17,7 +17,7 @@
     {
         "series": "Our Lives and Prophecies",
         "slug": "our-lives-and-prophecies",
-        "image_url": "",
+        "image_url": "our-lives-and-prophecies.png",
         "tracks": [
             {
                 "track_number": 1,

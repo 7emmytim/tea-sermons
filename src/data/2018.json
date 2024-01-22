@@ -686,8 +686,9 @@
         ]
     },
     {
-        "series": "Stopping Demonic Activity",
-        "slug": "stopping-demonic-activity",
+        "series": "Stopping Demonic Activities",
+        "description": "Series 1",
+        "slug": "stopping-demonic-activities-series-1",
         "image_url": "sda.jpg",
         "tracks": [
             {

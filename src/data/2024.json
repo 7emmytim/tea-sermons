@@ -1,12 +1,31 @@
 [
     {
+        "series": "The Believer",
+        "slug": "the-believer",
+        "image_url": "the-believer-2023.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": ""
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
         "series": "Righteousness Consciousness",
         "slug": "righteousness-consciousness",
-        "image_url": "",
+        "image_url": "righteousness-consciousness.png",
         "tracks": [
             {
                 "track_number": 1,
                 "url": "https://od.lk/d/MzJfMjQyOTg3MDVf/Righteousness%20Consciousness.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": ""
             }
         ],
         "year": "2024",

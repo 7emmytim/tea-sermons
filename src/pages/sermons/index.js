@@ -1,12 +1,15 @@
 import { useEffect, useState } from "react";
-import { ArrowDown, LeftArrow, RightArrow, SearchIcon } from "../../components";
+import { LeftArrow, Menu, RightArrow, SearchIcon } from "../../components";
 import { sermons_data } from "../../data";
 
 export function Sermons() {
   const [sermons, setSermons] = useState(sermons_data);
   const [page, setPage] = useState(1);
   const [search, setSearch] = useState("");
-  const [opened, setOpened] = useState(false);
+  const years = [...new Set(sermons_data.map((item) => item.year))];
+  const preachers = [
+    ...new Set(sermons_data.map((item) => item.preachers).flat()),
+  ];
 
   const pageSize = 8;
   const pageStart = (page - 1) * pageSize;
@@ -22,10 +25,6 @@ export function Sermons() {
   function previousPage() {
     window.scrollTo({ top: 0 });
     setPage((prev) => (prev > 1 ? prev - 1 : prev));
-  }
-
-  function toggleDropdown() {
-    setOpened((prev) => !prev);
   }
 
   useEffect(() => {
@@ -53,30 +52,7 @@ export function Sermons() {
           />
           <SearchIcon />
         </div>
-        <div className="relative inline-block text-left">
-          <div className="rounded-md shadow-sm" onClick={toggleDropdown}>
-            <button className="inline-flex items-center justify-center w-full h-10 px-5 text-sm font-medium text-gray-400 transition duration-150 ease-in-out bg-[#f5f6f7] rounded-full hover:text-gray-700">
-              <span>Filter</span>
-              <ArrowDown />
-            </button>
-          </div>
-          <div
-            className={`${
-              opened ? "opacity-1" : "opacity-0 invisible"
-            } transition-all duration-300 transform origin-top-right -translate-y-2 scale-95 !z-50`}
-          >
-            <div className="absolute right-0 w-56 mt-4 origin-top-right bg-white border border-gray-200 divide-y divide-gray-100 rounded-md shadow-lg outline-none">
-              <div className="py-1">
-                <span className="text-gray-700 flex justify-between w-full px-4 py-2 text-sm leading-5 text-left">
-                  Account settings
-                </span>
-                <span className="text-gray-700 flex justify-between w-full px-4 py-2 text-sm leading-5 text-left">
-                  Support
-                </span>
-              </div>
-            </div>
-          </div>
-        </div>
+        {/* <Menu /> */}
       </section>
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 mt-20">
         {sermons.slice(pageStart, pageEnd).map((item, index) => {
