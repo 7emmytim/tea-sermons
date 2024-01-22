@@ -80,7 +80,8 @@ export function Sermons() {
       <section className="w-10/12 mx-auto my-14">
         <div>
           <p className="text-center text-gray-500 text-sm">
-            Showing 1 to {pageSize} of {count} sermon series
+            Showing {pageStart + 1} to {count < pageSize ? count : pageEnd} of{" "}
+            {count} sermon series
           </p>
         </div>
         <div className="flex flex-wrap justify-center gap-3 mt-5">

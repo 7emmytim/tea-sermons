@@ -114,8 +114,9 @@
         ]
     },
     {
-        "series": "Understanding Genesis - Series 1",
-        "slug": "understanding-genesis",
+        "series": "Understanding Genesis",
+        "description": "Series 1",
+        "slug": "understanding-genesis-series-1",
         "image_url": "ug1.jpg",
         "tracks": [
             {

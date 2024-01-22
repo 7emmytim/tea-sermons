@@ -1,7 +1,8 @@
 [
     {
-        "series": "Understanding Genesis - Series 2",
-        "slug": "the-church-and-her-purpose",
+        "series": "Understanding Genesis",
+        "description": "Series 2",
+        "slug": "understanding-genesis-series-2",
         "image_url": "ug-2.jpg",
         "tracks": [
             {
@@ -749,7 +750,8 @@
         ]
     },
     {
-        "series": "Our Salvation 11 - 20",
+        "series": "Our Salvation",
+        "description": "Part 11 - 20",
         "slug": "our-salvation-11-20",
         "image_url": "salvation11-20.jpg",
         "tracks": [
@@ -885,7 +887,8 @@
         ]
     },
     {
-        "series": "God's Word God's Action - Series 1",
+        "series": "God's Word God's Action",
+        "description": "Series 1",
         "slug": "gods-word-gods-action-series-1",
         "image_url": "gwga-1.jpg",
         "tracks": [
@@ -1162,7 +1165,8 @@
         ]
     },
     {
-        "series": "Love and Self - 2",
+        "series": "Love and Self",
+        "description": "Series 2",
         "slug": "love-and-self-2",
         "image_url": "las.jpeg",
         "tracks": [
@@ -1223,7 +1227,8 @@
         ]
     },
     {
-        "series": "Our Jesus - 1",
+        "series": "Our Jesus",
+        "description": "Series 1",
         "slug": "our-jesus-1",
         "image_url": "oj1.jpg",
         "tracks": [
@@ -1283,7 +1288,8 @@
         ]
     },
     {
-        "series": "Our Salvation 1- 10",
+        "series": "Our Salvation",
+        "description": "Part 1 - 10",
         "slug": "our-salvation-1-10",
         "image_url": "salvation1-10.jpg",
         "tracks": [
