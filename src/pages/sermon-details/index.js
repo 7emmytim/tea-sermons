@@ -1,5 +1,5 @@
 import { BackIcon, DownloadIcon } from "../../components";
-import { sermons_data } from "../../data";
+import sermons_data from "../../data/all.json";
 
 export function SermonDetails({ param }) {
   const sermon = sermons_data.find((item) => item.slug === param);
@@ -33,7 +33,7 @@ export function SermonDetails({ param }) {
         <p>All Sermons</p>
       </a>
       <h1 className="text-center font-bold text-3xl mt-10">
-        {sermon.series} {sermon?.description ?? ""}
+        {sermon.series} {sermon?.description ? `(${sermon.description})` : ""}
       </h1>
       <section className="py-5 rounded-lg mt-5">
         <div className="divide-y divide-gray-100">

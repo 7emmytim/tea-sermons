@@ -1,5 +1,20 @@
 [
     {
+        "series": "We Are Grateful",
+        "slug": "we-are-grateful",
+        "image_url": "we-are-grateful.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": ""
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
         "series": "His Own Way",
         "slug": "his-own-way",
         "image_url": "his-own-way.png",

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { LeftArrow, Menu, RightArrow, SearchIcon } from "../../components";
-import { sermons_data } from "../../data";
+import sermons_data from "../../data/all.json";
 
 export function Sermons() {
   const [sermons, setSermons] = useState(sermons_data);
@@ -40,8 +40,15 @@ export function Sermons() {
     }
   }, [search]);
 
+  // useEffect(() => {
+  //   fetch("https://theedifyingassembly.org/api/v1/entity/all.json")
+  //     .then((response) => response.json())
+  //     .then((response) => setSermons(response))
+  //     .catch((error) => console.log(error));
+  // }, []);
+
   return (
-    <main className="container max-w-sm sm:max-w-3xl lg:max-w-7xl mx-auto pt-20">
+    <main className="container max-w-80 sm:max-w-2xl lg:max-w-6xl mx-auto pt-20">
       <section className="flex flex-wrap gap-5 justify-center items-center">
         <div className="relative text-gray-600 w-fit">
           <input
