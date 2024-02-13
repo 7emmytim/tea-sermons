@@ -32,7 +32,7 @@ export function Sermons() {
       setPage(1);
       setSermons(() => {
         return sermons_data.filter((item) =>
-          item.series.toLowerCase().includes(search.toLowerCase())
+          item.series.toLowerCase().includes(search.toLowerCase().trim())
         );
       });
     } else {

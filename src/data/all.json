@@ -26,6 +26,22 @@
             {
                 "track_number": 2,
                 "url": "https://od.lk/d/MzJfMjQzNjU3MTRf/Righteousness%20Consciousness%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjQ0MzA4Mzdf/Righteousness%20Consciousness%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjQ0MzA4NDRf/Righteousness%20Consciousness%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjQ0Mzg4ODZf/Righteousness%20Consciousness%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjQ0NjI3NjZf/Righteousness%20Consciousness%20-%20Part%206.mp3"
             }
         ],
         "year": "2024",
@@ -70,21 +86,6 @@
         ]
     },
     {
-        "series": "We Are Grateful",
-        "slug": "we-are-grateful",
-        "image_url": "we-are-grateful.png",
-        "tracks": [
-            {
-                "track_number": 1,
-                "url": ""
-            }
-        ],
-        "year": "2023",
-        "preachers": [
-            "Pastor Joy Omoba"
-        ]
-    },
-    {
         "series": "His Own Way",
         "slug": "his-own-way",
         "image_url": "his-own-way.png",
@@ -123,6 +124,21 @@
         ]
     },
     {
+        "series": "Aided By Revelation",
+        "slug": "aided-by-revelation",
+        "image_url": "aided-by-revelation.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM4ODU0MjNf/Aided%20By%20Revelation.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "The Right Response",
         "slug": "the-right-response",
         "image_url": "the-right-response.png",
@@ -130,6 +146,10 @@
             {
                 "track_number": 1,
                 "url": "https://od.lk/d/MzJfMjM4ODcxODJf/The%20Right%20Response.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjQ0NjgwNTZf/The%20Right%20Response%20-%20Part%202.mp3"
             }
         ],
         "year": "2023",
@@ -200,6 +220,70 @@
         "year": "2023",
         "preachers": [
             "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "The Gospel According To The Prophets",
+        "description": "Leviticus",
+        "slug": "the-gospel-according-to-the-prophets-leviticus",
+        "image_url": "the-gospel-according-to-the-prophets-leviticus.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjM2NDU1NTlf/The%20Gospel%20According%20To%20the%20Prophets%20%28Series%204%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjM2NzM2ODdf/The%20Gospel%20According%20To%20the%20Prophets%20%28Series%204%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjM3NDE3NTJf/The%20Gospel%20According%20To%20the%20Prophets%20%28Series%204%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjM4MTU2NzVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjM4MTUzMjZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjM4MTI5Nzhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMjM4MTUzMjJf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%207%29.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/d/MzJfMjM4MTUzNDlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%208%29.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/d/MzJfMjM4ODUzOTVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%209%29.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/d/MzJfMjM4ODUzOThf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%2010%29.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/d/MzJfMjM4ODU0MDJf/The%20Gospel%20According%20To%20the%20Prophets%20%28Series%204%20-%20Part%2011%29.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/d/MzJfMjM4ODU0MDZf/The%20Gospel%20According%20To%20the%20Prophets%20%28Series%204%20-%20Part%2012%29.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": "https://od.lk/d/MzJfMjM5MDQzNThf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%2013%29.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Omoba Temitope"
         ]
     },
     {
@@ -6362,15 +6446,15 @@
             },
             {
                 "track_number": 5,
-                "url": "https://od.lk/s/MzJfNjQ2NjAxM18/Qualification%20For%20The%20Supernatural%20Ministry%20Part%205.mp3"
+                "url": "https://od.lk/d/MzJfNjQ2NjAxM18/Qualification%20For%20The%20Supernatural%20Ministry%20Part%205.mp3"
             },
             {
                 "track_number": 6,
-                "url": "https://od.lk/s/MzJfNjQ2NjAxM18/Qualification%20For%20The%20Supernatural%20Ministry%20Part%206.mp3"
+                "url": "https://od.lk/d/MzJfNjQ2NjAxNV8/Qualification%20For%20The%20Supernatural%20Ministry%20Part%206.mp3"
             },
             {
                 "track_number": 7,
-                "url": "https://od.lk/s/MzJfNjQ2NjAxM18/Qualification%20For%20The%20Supernatural%20Ministry%20Part%207.mp3"
+                "url": "https://od.lk/d/MzJfNjQ2NjAxNl8/Qualification%20For%20The%20Supernatural%20Ministry%20Part%207.mp3"
             }
         ],
         "year": "2018",
