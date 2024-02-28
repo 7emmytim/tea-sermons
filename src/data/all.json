@@ -1,5 +1,54 @@
 [
     {
+        "series": "The Victory Mindset",
+        "slug": "the-victory-mindset",
+        "image_url": "the-victory-mindset.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjQ1OTM2Njhf/The%20Victory%20Mindset.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Aanuoluwapo"
+        ]
+    },
+    {
+        "series": "Getting Men Filled With The Holy Ghost",
+        "slug": "getting-men-filled-with-the-holy-ghost",
+        "image_url": "getting-men-filled-with-the-holy-ghost.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjQ1NTE2NzJf/Getting%20Men%20Filled%20With%20The%20HolyGhost.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Abraham"
+        ]
+    },
+    {
+        "series": "Let Brotherly Love Continue",
+        "slug": "let-brotherly-love-continue",
+        "image_url": "let-brotherly-love-continue.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjQ0ODY3MTNf/Let%20Brotherly%20Love%20Continue.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjQ1MDc1MDJf/Let%20Brotherly%20Love%20Continue%20Part%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Seyifunmi"
+        ]
+    },
+    {
         "series": "The Believer",
         "slug": "the-believer",
         "image_url": "the-believer-2023.png",
@@ -78,6 +127,11 @@
                 "track_number": 5,
                 "title": "Process of Time",
                 "url": "https://od.lk/d/MzJfMjQzNjU3MTZf/New%20Times%20And%20Seasons%20-%20Part%205%20%28Process%20of%20Time%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "title": "Procrastination",
+                "url": "https://od.lk/d/MzJfMjQ2MTIyNzZf/New%20Times%20and%20Seasons%20-%20Part%206%20%28Procrastination%29.mp3"
             }
         ],
         "year": "2024",
@@ -301,7 +355,7 @@
             },
             {
                 "track_number": 3,
-                "url": "https://od.lk/d/MzJfMjM3MzU0ODNf/Prayer%20Meetings%20-%20Part%203.mp3"
+                "url": "https://od.lk/d/MzJfMjM3NDE3NzJf/Prayer%20Meetings%20-%20Part%203.mp3"
             },
             {
                 "track_number": 4,
@@ -321,7 +375,7 @@
             },
             {
                 "track_number": 8,
-                "url": "https://od.lk/d/MzJfMjM3MzU0ODNf/Prayer%20Meetings%20-%20Part%208.mp3"
+                "url": "https://od.lk/d/MzJfMjM4MTI1MjVf/Prayer%20Meetings%20-%20Part%208.mp3"
             },
             {
                 "track_number": 9,
