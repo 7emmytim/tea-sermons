@@ -29,10 +29,13 @@ export function Sermons() {
 
   useEffect(() => {
     if (search) {
+      const s = search.toLowerCase().trim();
       setPage(1);
       setSermons(() => {
-        return sermons_data.filter((item) =>
-          item.series.toLowerCase().includes(search.toLowerCase().trim())
+        return sermons_data.filter(
+          (item) =>
+            item.series.toLowerCase().includes(s) ||
+            item?.description?.toLowerCase()?.includes(s)
         );
       });
     } else {
@@ -148,7 +151,7 @@ export function Sermons() {
   );
 }
 
-function Image({ item }) {
+export function Image({ item }) {
   const [error, setError] = useState(false);
 
   return (
