@@ -68,7 +68,7 @@ export function Sermons() {
         {sermons.slice(pageStart, pageEnd).map((item, index) => {
           return (
             <a
-              href={`/sermons?sermon_series=${item.slug}`}
+              href={`/sermons?sermon_series=${item.slug}-${item.year}`}
               key={`${item.slug} ${index}`}
               className="p-2 hover:bg-[#f5f6f7] cursor-pointer rounded"
             >

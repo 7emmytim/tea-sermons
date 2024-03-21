@@ -1,5 +1,39 @@
 [
     {
+        "series": "A Holy Ghost Meeting",
+        "slug": "a-holy-ghost-meeting",
+        "image_url": "a-holy-ghost-meeting.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": ""
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Henry Tor"
+        ]
+    },
+    {
+        "series": "Understanding Discipleship",
+        "slug": "understanding-discipleship",
+        "image_url": "understanding-discipleship.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjQ4MTI5Nzhf/Understanding%20Discipleship%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjQ4MTI5Nzdf/Understanding%20Discipleship%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Jesuoluwa Seun"
+        ]
+    },
+    {
         "series": "The Victory Mindset",
         "slug": "the-victory-mindset",
         "image_url": "the-victory-mindset.png",
@@ -132,6 +166,11 @@
                 "track_number": 6,
                 "title": "Procrastination",
                 "url": "https://od.lk/d/MzJfMjQ2MTIyNzZf/New%20Times%20and%20Seasons%20-%20Part%206%20%28Procrastination%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "title": "Out of Time",
+                "url": "https://od.lk/d/MzJfMjQ4MzMwMjZf/New%20Times%20And%20Seasons%20-%20Part%207%20%28Out%20of%20Time%29.mp3"
             }
         ],
         "year": "2024",
@@ -348,7 +387,7 @@
             },
             {
                 "track_number": 15,
-                "url": ""
+                "url": "https://od.lk/d/MzJfMjQ4MjYzNTVf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%2015%29.mp3"
             },
             {
                 "track_number": 16,
@@ -357,6 +396,18 @@
             {
                 "track_number": 17,
                 "url": "https://od.lk/d/MzJfMjQ3MDkyMDNf/The%20Gospel%20According%20To%20the%20Prophets%20%28Series%204%20-%20Part%2017%29.mp3"
+            },
+            {
+                "track_number": 18,
+                "url": "https://od.lk/d/MzJfMjQ4MTI5Nzlf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%2018%29.mp3"
+            },
+            {
+                "track_number": 19,
+                "url": "https://od.lk/d/MzJfMjQ4MTk2MzZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%2019%29.mp3"
+            },
+            {
+                "track_number": 20,
+                "url": "https://od.lk/d/MzJfMjQ4MTk5NDBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%204%20-%20Part%2020%29.mp3"
             }
         ],
         "year": "2023",

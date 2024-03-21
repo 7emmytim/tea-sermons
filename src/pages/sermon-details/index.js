@@ -3,7 +3,9 @@ import sermons_data from "../../data/all.json";
 import { Image } from "../sermons";
 
 export function SermonDetails({ param }) {
-  const sermon = sermons_data.find((item) => item.slug === param);
+  const sermon = sermons_data.find(
+    (item) => `${item.slug}-${item.year}` === param
+  );
 
   if (!sermon)
     return (
