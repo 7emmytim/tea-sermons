@@ -1,12 +1,27 @@
 [
     {
+        "series": "Effective Fasting",
+        "slug": "effective-fasting-2024",
+        "image_url": "effective-fasting-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjUwMTQ1ODhf/Effective%20Fasting.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "A Holy Ghost Meeting",
         "slug": "a-holy-ghost-meeting",
         "image_url": "a-holy-ghost-meeting.png",
         "tracks": [
             {
                 "track_number": 1,
-                "url": ""
+                "url": "https://od.lk/d/MzJfMjQ4MzMwMDVf/A%20Holy%20Ghost%20Meeting.mp3"
             }
         ],
         "year": "2024",
@@ -26,6 +41,10 @@
             {
                 "track_number": 2,
                 "url": "https://od.lk/d/MzJfMjQ4MTI5Nzdf/Understanding%20Discipleship%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": ""
             }
         ],
         "year": "2024",
