@@ -1,5 +1,81 @@
 [
     {
+        "series": "Echoes Of Deliverance",
+        "slug": "echoes-of-deliverance",
+        "image_url": "echoes-of-deliverance.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjU5OTgzODhf/Echoes%20of%20Deliverance%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjU5OTgzMjlf/Echoes%20of%20Deliverance%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": ""
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjU5OTgyMjRf/Echoes%20of%20Deliverance%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjU5OTgyNjZf/Echoes%20of%20Deliverance%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": ""
+            },
+            {
+                "track_number": 7,
+                "url": ""
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/d/MzJfMjU5OTg0Mzdf/Echoes%20of%20Deliverance%20-%20Part%208.mp3"
+            },
+            {
+                "track_number": 9,
+                "url": "https://od.lk/d/MzJfMjU5OTg0ODhf/Echoes%20of%20Deliverance%20-%20Part%209.mp3"
+            },
+            {
+                "track_number": 10,
+                "url": ""
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Let Us Make Man",
+        "slug": "let-us-make-man",
+        "image_url": "let-us-make-man.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjU5OTg1Nzdf/Let%20Us%20Make%20Man%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "SHFW 24 Teaching Sessions",
+        "slug": "singing-his-finished-works.png",
+        "image_url": "singing-his-finished-works.png",
+        "tracks": [],
+        "year": "2024",
+        "preachers": [
+            ""
+        ]
+    },
+    {
         "series": "Effective Fasting",
         "slug": "effective-fasting-2024",
         "image_url": "effective-fasting-2024.png",
@@ -45,6 +121,18 @@
             {
                 "track_number": 3,
                 "url": ""
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjU0MDExOTZf/Understanding%20Discipleship%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": ""
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjU2NDI5MzJf/Understanding%20Discipleship%20-%20Part%206.mp3"
             }
         ],
         "year": "2024",
