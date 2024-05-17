@@ -6,23 +6,23 @@
         "tracks": [
             {
                 "track_number": 1,
-                "url": "https://od.lk/d/MzJfMjU5OTgzODhf/Echoes%20of%20Deliverance%20-%20Part%201.mp3"
+                "url": "https://od.lk/d/MzJfMjYwNDgzMDBf/Echoes%20of%20Deliverance%20-%20Part%201.mp3"
             },
             {
                 "track_number": 2,
-                "url": "https://od.lk/d/MzJfMjU5OTgzMjlf/Echoes%20of%20Deliverance%20-%20Part%202.mp3"
-            },
-            {
-                "track_number": 3,
                 "url": ""
             },
             {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjYwNDgzMDFf/Echoes%20of%20Deliverance%20-%20Part%203.mp3"
+            },
+            {
                 "track_number": 4,
-                "url": "https://od.lk/d/MzJfMjU5OTgyMjRf/Echoes%20of%20Deliverance%20-%20Part%204.mp3"
+                "url": "https://od.lk/d/MzJfMjYwNDgzMDJf/Echoes%20of%20Deliverance%20-%20Part%204.mp3"
             },
             {
                 "track_number": 5,
-                "url": "https://od.lk/d/MzJfMjU5OTgyNjZf/Echoes%20of%20Deliverance%20-%20Part%205.mp3"
+                "url": "https://od.lk/d/MzJfMjYwNDgzMDNf/Echoes%20of%20Deliverance%20-%20Part%205.mp3"
             },
             {
                 "track_number": 6,
@@ -30,19 +30,19 @@
             },
             {
                 "track_number": 7,
-                "url": ""
+                "url": "https://od.lk/d/MzJfMjYwNDgzMDRf/Echoes%20of%20Deliverance%20-%20Part%207.mp3"
             },
             {
                 "track_number": 8,
-                "url": "https://od.lk/d/MzJfMjU5OTg0Mzdf/Echoes%20of%20Deliverance%20-%20Part%208.mp3"
+                "url": "https://od.lk/d/MzJfMjYwNDgzMDZf/Echoes%20of%20Deliverance%20-%20Part%208.mp3"
             },
             {
                 "track_number": 9,
-                "url": "https://od.lk/d/MzJfMjU5OTg0ODhf/Echoes%20of%20Deliverance%20-%20Part%209.mp3"
+                "url": "https://od.lk/d/MzJfMjYwNDgzMDhf/Echoes%20of%20Deliverance%20-%20Part%209.mp3"
             },
             {
                 "track_number": 10,
-                "url": ""
+                "url": "https://od.lk/d/MzJfMjYxMjMzODJf/Echoes%20of%20Deliverance%20-%20Part%2010.mp3"
             }
         ],
         "year": "2024",
@@ -68,11 +68,43 @@
     {
         "series": "SHFW 24 Teaching Sessions",
         "slug": "singing-his-finished-works.png",
-        "image_url": "singing-his-finished-works.png",
+        "image_url": "singing-his-finished-works-2024.png",
         "tracks": [],
         "year": "2024",
         "preachers": [
-            ""
+            {
+                "track_number": 0,
+                "title": "Welcome Charge",
+                "url": "https://od.lk/d/MzJfMjYxMjMzNzBf/00%20SHFW%202024%20Welcome%20Charge.mp3"
+            },
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjYxMjMzNzFf/01%20SHFW%202024%20%28Day%201%20-%20Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjYxMjMzNzJf/02%20SHFW%202024%20%28Day%202%20-%20Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjYxMjMzNzNf/03%20SHFW%202024%20%28Day%202%20-%20Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjYxMjMzNjlf/04%20SHFW%202024%20%28Day%202%20-%20Evening%20Session%29%20.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjYxMjMzNzRf/05%20SHFW%202024%20%28Day%203%20-%20Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjYxMjMzNzVf/06%20SHFW%202024%20%28Day%203%20-%20Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMjYxMjMzNzZf/07%20SHFW%202024%20%28Day%203%20-%20Evening%20Session%29.mp3"
+            }
         ]
     },
     {
@@ -128,11 +160,15 @@
             },
             {
                 "track_number": 5,
-                "url": ""
+                "url": "https://od.lk/d/MzJfMjYwNDgyOTlf/Understanding%20Discipleship%20-%20Part%205.mp3"
             },
             {
                 "track_number": 6,
                 "url": "https://od.lk/d/MzJfMjU2NDI5MzJf/Understanding%20Discipleship%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMjYwOTY0NDhf/Understanding%20Discipleship%20-%20Part%207.mp3"
             }
         ],
         "year": "2024",
