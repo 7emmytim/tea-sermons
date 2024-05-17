@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { LeftArrow, Menu, RightArrow, SearchIcon } from "../../components";
+import { LeftArrow, RightArrow, SearchIcon } from "../../components";
 import sermons_data from "../../data/all.json";
 
 export function Sermons() {
