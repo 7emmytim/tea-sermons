@@ -5,6 +5,8 @@
   "private": true,
   "dependencies": {
     "@headlessui/react": "^1.7.18",
+    "@mantine/core": "^7.9.2",
+    "@mantine/hooks": "^7.9.2",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
@@ -39,6 +41,9 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "postcss": "^8.4.38",
+    "postcss-preset-mantine": "^1.15.0",
+    "postcss-simple-vars": "^7.0.1",
     "tailwindcss": "^3.4.1"
   }
 }

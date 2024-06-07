@@ -1,9 +1,23 @@
 import { useEffect, useState } from "react";
-import { LeftArrow, RightArrow, SearchIcon } from "../../components";
+import {
+  FilterLines,
+  LeftArrow,
+  RightArrow,
+  SearchIcon,
+} from "../../components";
 import sermons_data from "../../data/all.json";
+import { Button, Menu, SegmentedControl } from "@mantine/core";
+
+const FILTERS = [
+  { label: "Most recent", key: "recent" },
+  { label: "Oldest", key: "oldest" },
+  { label: "Year", key: "year" },
+  { label: "Preachers", key: "preachers" },
+];
 
 export function Sermons() {
   const [sermons, setSermons] = useState(sermons_data);
+  const [filter, setFilter] = useState(FILTERS[0]);
   const [page, setPage] = useState(1);
   const [search, setSearch] = useState("");
   const years = [...new Set(sermons_data.map((item) => item.year))];
@@ -62,8 +76,53 @@ export function Sermons() {
           />
           <SearchIcon />
         </div>
-        {/* <Menu /> */}
+        {/* <Menu shadow="md" width={200}>
+          <Menu.Target>
+            <Button
+              variant="default"
+              leftSection={<FilterLines />}
+              radius="xl"
+              color="gray"
+            >
+              Arrange by
+            </Button>
+          </Menu.Target>
+
+          <Menu.Dropdown>
+            {FILTERS.map((item) => {
+              return (
+                <Menu.Item
+                  key={item.key}
+                  disabled={item.key === "preachers"}
+                  onClick={() => setFilter(item.key)}
+                >
+                  {item.label}
+                </Menu.Item>
+              );
+            })}
+          </Menu.Dropdown>
+        </Menu> */}
       </section>
+      {/* {filter === "year" && (
+        <section className="mx-auto">
+          <SegmentedControl
+            // value={value}
+            // onChange={setValue}
+            mx="auto"
+            data={[
+              { label: "React", value: "react" },
+              { label: "Angular", value: "ng" },
+              { label: "Vue", value: "vue" },
+              { label: "Svelte", value: "svelte" },
+            ]}
+          />
+        </section>
+      )} */}
+      {/* <section className="flex flex-wrap gap-10 mt-10 mx-auto justify-center">
+        {years.map((item) => {
+          return <button key={item}>{item}</button>;
+        })}
+      </section> */}
       <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 mt-20">
         {sermons.slice(pageStart, pageEnd).map((item, index) => {
           return (

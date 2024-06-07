@@ -4,3 +4,4 @@ export * from "./search-icon";
 export * from "./download-icon";
 export * from "./back-icon";
 export * from "./arrow-down";
+export * from "./filter-lines";

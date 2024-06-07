@@ -1,12 +1,42 @@
 [
     {
+        "series": "God Consciousness",
+        "slug": "god-consciousness",
+        "image_url": "god-consciousness-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjg0Njk2ODdf/God%20Consciousness.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Jesuoluwa Seyifunmi"
+        ]
+    },
+    {
+        "series": "Anyigba Believers' Meeting",
+        "slug": "anyigba-believers-meeting",
+        "image_url": "anyigba-believers-meeting-2024.png",
+        "tracks": [],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "Echoes Of Deliverance",
+        "description": "Series 1",
         "slug": "echoes-of-deliverance",
         "image_url": "echoes-of-deliverance.png",
         "tracks": [
             {
                 "track_number": 1,
                 "url": "https://od.lk/d/MzJfMjYwNDgzMDBf/Echoes%20of%20Deliverance%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjYxNTU3OThf/Echoes%20of%20Deliverance%20-%20Part%202.mp3"
             },
             {
                 "track_number": 3,
@@ -19,6 +49,10 @@
             {
                 "track_number": 5,
                 "url": "https://od.lk/d/MzJfMjYwNDgzMDNf/Echoes%20of%20Deliverance%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMjYxNTU4MDRf/Echoes%20of%20Deliverance%20-%20Part%206.mp3"
             },
             {
                 "track_number": 7,
@@ -38,9 +72,7 @@
             }
         ],
         "year": "2024",
-        "preachers": [
-            "Omoba Temitope"
-        ]
+        "preachers": []
     },
     {
         "series": "Let Us Make Man",
@@ -165,6 +197,10 @@
             {
                 "track_number": 7,
                 "url": "https://od.lk/d/MzJfMjYwOTY0NDhf/Understanding%20Discipleship%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": "https://od.lk/d/MzJfMjYxMzg1MDlf/Understanding%20Discipleship%20-%20Part%208.mp3"
             }
         ],
         "year": "2024",
@@ -1420,7 +1456,7 @@
         "series": "Making The Best Of Discipleship",
         "description": "2023",
         "slug": "making-the-best-of-discipleship-2023",
-        "image_url": "mtbod.jpeg",
+        "image_url": "making-the-best-of-discipleship-2023.png",
         "tracks": [
             {
                 "track_number": 1,
@@ -1429,7 +1465,7 @@
         ],
         "year": "2023",
         "preachers": [
-            "Omoba Temitope"
+            "Pastor Henry Tor"
         ]
     },
     {
@@ -3456,6 +3492,7 @@
     },
     {
         "series": "Making The Best Of Discipleship",
+        "description": "2020",
         "slug": "making-the-best-of-discipleship",
         "image_url": "mtbod.jpeg",
         "tracks": [
@@ -4182,15 +4219,15 @@
         "tracks": [
             {
                 "track_number": 1,
-                "url": "https://od.lk/s/MzJfMTI3MjQ3MDNf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%201.mp3"
+                "url": "https://od.lk/d/MzJfMTI3MjQ3MDNf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%201.mp3"
             },
             {
                 "track_number": 2,
-                "url": "https://od.lk/s/MzJfMTI3MjQ3MTJf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%202.mp3"
+                "url": "https://od.lk/d/MzJfMTI3MjQ3MTJf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%202.mp3"
             },
             {
                 "track_number": 3,
-                "url": "https://od.lk/s/MzJfMTI3MjQ3MDFf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%203.mp3"
+                "url": "https://od.lk/d/MzJfMTI3MjQ3MDFf/Maximizing%20the%20Spirituals%20-%20Honor%20Part%203.mp3"
             }
         ],
         "year": "2020",
@@ -5655,11 +5692,11 @@
         "tracks": [
             {
                 "track_number": 1,
-                "url": "https://od.lk/s/MzJfNjQ4NDMxNV8/Utterance%20Gift%20Track%201.mp3"
+                "url": "https://od.lk/d/MzJfNjQ4NDMxNV8/Utterance%20Gift%20Track%201.mp3"
             },
             {
                 "track_number": 2,
-                "url": "https://od.lk/s/MzJfNjQ4NDMxNl8/Utterance%20Gift%20Track%202.mp3"
+                "url": "https://od.lk/d/MzJfNjQ4NDMxNl8/Utterance%20Gift%20Track%202.mp3"
             },
             {
                 "track_number": 3,
