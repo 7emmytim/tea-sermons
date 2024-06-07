@@ -1,3 +1,4 @@
+import { Center, Stack, Text } from "@mantine/core";
 import { BackIcon, DownloadIcon } from "../../components";
 import sermons_data from "../../data/all.json";
 import { Image } from "../sermons";
@@ -9,17 +10,14 @@ export function SermonDetails({ param }) {
 
   if (!sermon)
     return (
-      <p className="h-screen flex items-center justify-center text-2xl">
-        Page not found ):
-      </p>
-    );
-
-  if (!sermon.tracks.length)
-    return (
-      <p className="h-screen flex items-center justify-center text-2xl">
-        Tracklist for * <span className="font-semibold"> {sermon.series} </span>{" "}
-        * is empty ):
-      </p>
+      <Center className="h-screen">
+        <Stack>
+          <Text className="text-xl">Page not found ):</Text>
+          <a href="/sermons" className="text-center text-blue-400">
+            Back to all sermons
+          </a>
+        </Stack>
+      </Center>
     );
 
   return (
@@ -38,32 +36,40 @@ export function SermonDetails({ param }) {
         <Image item={sermon} />
       </section>
       <section className="py-5 rounded-lg">
-        <div className="divide-y divide-gray-100">
-          {sermon.tracks.map(({ title, track_number, url }) => (
-            <a
-              key={track_number}
-              href={url}
-              target="_blank"
-              rel="noreferrer"
-              className="flex items-center justify-between gap-x-6 py-5 px-5 sm:px-10 cursor-pointer hover:bg-gray-50"
-            >
-              <div className="flex min-w-0 gap-x-4">
-                <div className="min-w-0 flex-auto">
-                  <p className="text-xs sm:text-sm font-semibold leading-6 text-gray-900">
-                    {title ?? `Track ${track_number}`}
-                  </p>
-                  <p className="mt-1 truncate text-xs leading-5 text-gray-500">
-                    {/* {track.email} */}
-                    {/* {sermon.preachers[0]} */}
-                  </p>
+        {sermon.tracks.length ? (
+          <div className="divide-y divide-gray-100">
+            {sermon.tracks.map(({ title, track_number, url }) => (
+              <a
+                key={track_number}
+                href={url}
+                target="_blank"
+                rel="noreferrer"
+                className="flex items-center justify-between gap-x-6 py-5 px-5 sm:px-10 cursor-pointer hover:bg-gray-50"
+              >
+                <div className="flex min-w-0 gap-x-4">
+                  <div className="min-w-0 flex-auto">
+                    <p className="text-xs sm:text-sm font-semibold leading-6 text-gray-900">
+                      {title ?? `Track ${track_number}`}
+                    </p>
+                    <p className="mt-1 truncate text-xs leading-5 text-gray-500">
+                      {/* {track.email} */}
+                      {/* {sermon.preachers[0]} */}
+                    </p>
+                  </div>
                 </div>
-              </div>
-              <div className="shrink-0 flex flex-col items-end">
-                <DownloadIcon />
-              </div>
-            </a>
-          ))}
-        </div>
+                <div className="shrink-0 flex flex-col items-end">
+                  <DownloadIcon />
+                </div>
+              </a>
+            ))}
+          </div>
+        ) : (
+          <div>
+            <p className="text-xl text-center">
+              Tracklist for this sermon is empty ):
+            </p>
+          </div>
+        )}
       </section>
     </main>
   );

@@ -25,7 +25,7 @@ export function Sermons() {
     ...new Set(sermons_data.map((item) => item.preachers).flat()),
   ];
 
-  const pageSize = 8;
+  const pageSize = 12;
   const pageStart = (page - 1) * pageSize;
   const pageEnd = page * pageSize;
   const count = sermons.length;
