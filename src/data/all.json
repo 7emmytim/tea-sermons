@@ -1,5 +1,30 @@
 [
     {
+        "series": "Songs and The Spirituals",
+        "slug": "songs-and-the-spirituals",
+        "image_url": "songs-and-the-spirituals-2024.png",
+        "tracks": [],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "God's Light",
+        "slug": "gods-light",
+        "image_url": "gods-light-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzA0MjM3OTFf/God%27s%20Light.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Jesuoluwa Seyifunmi"
+        ]
+    },
+    {
         "series": "God Consciousness",
         "slug": "god-consciousness",
         "image_url": "god-consciousness-2024.png",
@@ -12,6 +37,38 @@
         "year": "2024",
         "preachers": [
             "Pastor Jesuoluwa Seyifunmi"
+        ]
+    },
+    {
+        "series": "The Spiritual Life",
+        "description": "Series 1",
+        "slug": "the-spiritual-life",
+        "image_url": "the-spiritual-life.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjYyNDQwODJf/The%20Spiritual%20Life.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjYyODc1NTZf/The%20Spiritual%20Life%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjcyMjM0ODhf/The%20Spiritual%20Life%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjc2NjkwODBf/The%20Spiritual%20Life%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjkxMjU5Mzlf/The%20Spiritual%20Life%20-%20Part%205.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
         ]
     },
     {
@@ -2506,6 +2563,38 @@
             {
                 "track_number": 3,
                 "url": "https://od.lk/d/MzJfMjI5MTk2NTBf/Walking%20In%20Dominion%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2022",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Offices",
+        "description": "Series 5",
+        "slug": "offices-series-5",
+        "image_url": "offices-series-5.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMjIzOTU2OTBf/Offices%20%28Series%205-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMjIzOTU2NTRf/Offices%20%28%20Series%205-Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMjIzOTU2NjZf/Offices%20%28%20Series%205%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMjIzOTU2Nzdf/Offices%20%28%20Series%205-Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMjIzOTcwNzJf/Offices%20%28Series%205%20-%20Part%205%29.mp3"
             }
         ],
         "year": "2022",
