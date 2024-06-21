@@ -139,7 +139,11 @@ export function Sermons() {
                   {item.series}
                 </h3>
                 <h4 className="font-light text-[#747578] text-sm mt-1">
-                  {item?.description ? `(${item.description})` : ""}
+                  {item?.description
+                    ? `(${item.description})`
+                    : item?.year
+                    ? `(${item.year})`
+                    : ""}
                 </h4>
               </div>
             </a>

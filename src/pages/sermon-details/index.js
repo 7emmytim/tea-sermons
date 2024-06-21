@@ -30,7 +30,12 @@ export function SermonDetails({ param }) {
         <p>All Sermons</p>
       </a>
       <h1 className="text-center font-bold text-xl sm:text-3xl mt-10">
-        {sermon.series} {sermon?.description ? `(${sermon.description})` : ""}
+        {sermon.series}{" "}
+        {sermon?.description
+          ? `(${sermon.description})`
+          : sermon?.year
+          ? `(${sermon.year})`
+          : ""}
       </h1>
       <section className="my-5 aspect-square h-40 sm:h-64 mx-auto bg-[#f5f6f7] rounded p-1 sm:p-3 shadow-lg">
         <Image item={sermon} />
