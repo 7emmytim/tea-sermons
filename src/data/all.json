@@ -1,9 +1,130 @@
 [
     {
+        "series": "Echoes Of Deliverance",
+        "description": "Series 2",
+        "slug": "echoes-of-deliverance-series-2",
+        "image_url": "echoes-of-deliverance-series-2.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzQzMjg1NDZf/Echoes%20of%20Deliverance%20%28Series%202%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzQzNjkxOTdf/Echoes%20of%20Deliverance%20%28Series%202%20-%20Part%202%29.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Prayer Service",
+        "slug": "prayer-service-2024",
+        "image_url": "prayer-service-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzQxMjg3NDVf/Prayer%20Service.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "Fan To Flame",
+        "slug": "fan-to-flame",
+        "image_url": "fan-to-flame.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzIzNzcyMjJf/Fan%20to%20Flame.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Ifeoluwa Owoyemi"
+        ]
+    },
+    {
+        "series": "Minna Bible Seminar",
+        "slug": "minna-bible-seminar",
+        "image_url": "minna-bible-seminar-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Day 1",
+                "url": "https://od.lk/d/MzJfMzI2MDY5NDZf/Minna%20Bible%20Seminar%20-%20Day%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "Day 2 (Morning Session)",
+                "url": "https://od.lk/d/MzJfMzI2MDY4Mjlf/Minna%20Bible%20Seminar%20-%20Day%202%20%28Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "title": "Day 2 (Evening Session)",
+                "url": "https://od.lk/d/MzJfMzI2MDY2OThf/Minna%20Bible%20Seminar%20-%20Day%202%20%28Evening%20Session%29.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Spiritual Life",
+        "description": "Series 2",
+        "slug": "the-spiritual-life-series-2",
+        "image_url": "the-spiritual-life-series-2.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzM3NDc0NTRf/The%20Spiritual%20Life%20%28Series%202%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMzM3NDc0NjNf/The%20Spiritual%20Life%20%28Series%202%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMzM3NDc1NTVf/The%20Spiritual%20Life%20%28Series%202%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMzM4MjU2NDNf/The%20Spiritual%20Life%20%28Series%202%20-%20Part%205%29.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "Songs and The Spirituals",
         "slug": "songs-and-the-spirituals",
         "image_url": "songs-and-the-spirituals-2024.png",
-        "tracks": [],
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzM3NDc0Njdf/Songs%20and%20the%20Spirituals%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzM3NDc0ODhf/Songs%20and%20the%20Spirituals%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMzM3NDc0NzZf/Songs%20and%20the%20Spirituals%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMzM4MjYyMDBf/Songs%20and%20the%20Spirituals%20-%20Part%204.mp3"
+            }
+        ],
         "year": "2024",
         "preachers": [
             "Omoba Temitope"
@@ -16,7 +137,15 @@
         "tracks": [
             {
                 "track_number": 1,
-                "url": "https://od.lk/d/MzJfMzA0MjM3OTFf/God%27s%20Light.mp3"
+                "url": "https://od.lk/d/MzJfMzM3NDc0MzFf/God%27s%20Light%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzM3NDc0MjRf/God%27s%20Light%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMzM3NDc1NDhf/God%27s%20Light%20-%20Part%203.mp3"
             }
         ],
         "year": "2024",
@@ -129,7 +258,9 @@
             }
         ],
         "year": "2024",
-        "preachers": []
+        "preachers": [
+            "Omoba Temitope"
+        ]
     },
     {
         "series": "Let Us Make Man",
@@ -408,6 +539,21 @@
         "year": "2024",
         "preachers": [
             "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Training Ethics",
+        "slug": "training-ethics",
+        "image_url": "training-ethics.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzM2MzMxMDlf/Training%20Ethics.mp3"
+            }
+        ],
+        "year": "2023",
+        "preachers": [
+            "Pastor Joy Omoba"
         ]
     },
     {
