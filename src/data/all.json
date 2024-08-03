@@ -1,5 +1,41 @@
 [
     {
+        "series": "Kaduna Prayer Conference",
+        "slug": "kaduna-prayer-conference",
+        "image_url": "kaduna-prayer-conference-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Day 1 (First Session)",
+                "url": "https://od.lk/d/MzJfMzU1Mjc2MjZf/Kaduna%20Prayer%20Conference%20-%20Day%201%20%28First%20Session%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "Day 1 (Second Session)",
+                "url": "https://od.lk/d/MzJfMzU1Mjc2Mjdf/Kaduna%20Prayer%20Conference%20-%20Day%201%20%28Second%20Session%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "title": "Day 2 (Morning Session)",
+                "url": "https://od.lk/d/MzJfMzU1MzEwMzJf/Kaduna%20Prayer%20Conference%20-%20Day%202%20%28Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "title": "Day 2 (Evening Session)",
+                "url": "https://od.lk/d/MzJfMzU1MzEwMzVf/Kaduna%20Prayer%20Conference%20-%20Day%202%20%28Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "title": "Day 3 (Singing To Bless)",
+                "url": "https://od.lk/d/MzJfMzU1MzEwMjhf/Kaduna%20Singing%20To%20Bless.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "Echoes Of Deliverance",
         "description": "Series 2",
         "slug": "echoes-of-deliverance-series-2",
@@ -12,6 +48,26 @@
             {
                 "track_number": 2,
                 "url": "https://od.lk/d/MzJfMzQzNjkxOTdf/Echoes%20of%20Deliverance%20%28Series%202%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMzQ0MjUwODNf/Echoes%20of%20Deliverance%20%28Series%202%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": ""
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMzUxMDEwMDlf/Echoes%20of%20Deliverance%20%28Series%202%20-%20Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMzUxNjczNzBf/Echoes%20of%20Deliverance%20%28Series%202%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMzU0MjkwNzZf/Echoes%20of%20Deliverance%20%28Series%202%20-%20Part%207%29.mp3"
             }
         ],
         "year": "2024",
@@ -37,7 +93,7 @@
     {
         "series": "Fan To Flame",
         "slug": "fan-to-flame",
-        "image_url": "fan-to-flame.png",
+        "image_url": "fan-to-flame-2024.png",
         "tracks": [
             {
                 "track_number": 1,
@@ -68,6 +124,11 @@
                 "track_number": 3,
                 "title": "Day 2 (Evening Session)",
                 "url": "https://od.lk/d/MzJfMzI2MDY2OThf/Minna%20Bible%20Seminar%20-%20Day%202%20%28Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "title": "Day 3 (Singing To Bless)",
+                "url": "https://od.lk/d/MzJfMzU1MzEzNzhf/Minna%20Singing%20To%20Bless.mp3"
             }
         ],
         "year": "2024",
