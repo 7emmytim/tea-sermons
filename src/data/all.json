@@ -1,5 +1,24 @@
 [
     {
+        "series": "Effective Expressions",
+        "slug": "effective-expressions",
+        "image_url": "effective-expressions.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzU1Mzk5MjBf/Effective%20Expressions%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzYyODgyODdf/Effective%20Expressions%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
         "series": "Kaduna Prayer Conference",
         "slug": "kaduna-prayer-conference",
         "image_url": "kaduna-prayer-conference-2024.png",

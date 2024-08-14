@@ -1,12 +1,7 @@
 import { useEffect, useState } from "react";
-import {
-  FilterLines,
-  LeftArrow,
-  RightArrow,
-  SearchIcon,
-} from "../../components";
+import { LeftArrow, RightArrow, SearchIcon } from "../../components";
 import sermons_data from "../../data/all.json";
-import { Button, Menu, SegmentedControl } from "@mantine/core";
+import { NavLink } from "@mantine/core";
 
 const FILTERS = [
   { label: "Most recent", key: "recent" },
@@ -66,6 +61,66 @@ export function Sermons() {
 
   return (
     <main className="container max-w-80 sm:max-w-2xl lg:max-w-6xl mx-auto pt-20">
+      <section className="flex flex-wrap gap-5 items-center justify-between mb-10">
+        <NavLink
+          label="Home page"
+          href="/"
+          className="w-fit"
+          leftSection={
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+            >
+              <path
+                d="M12 18v-3M10.07 2.82 3.14 8.37c-.78.62-1.28 1.93-1.11 2.91l1.33 7.96c.24 1.42 1.6 2.57 3.04 2.57h11.2c1.43 0 2.8-1.16 3.04-2.57l1.33-7.96c.16-.98-.34-2.29-1.11-2.91l-6.93-5.54c-1.07-.86-2.8-.86-3.86-.01Z"
+                stroke="#000000"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              ></path>
+            </svg>
+          }
+        />
+        <NavLink
+          label="Songs page"
+          href="/songs"
+          className="w-fit"
+          leftSection={
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="18"
+              height="18"
+              viewBox="0 0 24 24"
+              fill="none"
+            >
+              <path
+                d="M6.28 22a3.12 3.12 0 1 0 0-6.24 3.12 3.12 0 0 0 0 6.24Z"
+                stroke="#000000"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              ></path>
+              <path
+                d="M20.84 16.8V4.6c0-2.6-1.63-2.96-3.28-2.51l-6.24 1.7C10.18 4.1 9.4 5 9.4 6.3v12.57"
+                stroke="#000000"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              ></path>
+              <path
+                d="M17.72 19.92a3.12 3.12 0 1 0 0-6.24 3.12 3.12 0 0 0 0 6.24ZM9.4 9.52 20.84 6.4"
+                stroke="#000000"
+                stroke-width="1.5"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              ></path>
+            </svg>
+          }
+        />
+      </section>
       <section className="flex flex-wrap gap-5 justify-center items-center">
         <div className="relative text-gray-600 w-fit">
           <input
@@ -123,7 +178,7 @@ export function Sermons() {
           return <button key={item}>{item}</button>;
         })}
       </section> */}
-      <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 mt-20">
+      <section className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-5 mt-10">
         {sermons.slice(pageStart, pageEnd).map((item, index) => {
           return (
             <a
