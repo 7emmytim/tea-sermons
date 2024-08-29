@@ -1,5 +1,87 @@
 [
     {
+        "series": "Moving Forward After SSS",
+        "slug": "moving-forward-after-sss",
+        "image_url": "moving-forward-after-sss.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzY0NTQ0Mjhf/Moving%20Forward%20After%20SSS%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "SSS",
+        "description": "2024",
+        "slug": "sss-2024",
+        "image_url": "sss-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Day 1 (Evening Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3Mzlf/SSS%20%2724%20-%20Day%201%20%28Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "Day 2 (Morning Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3NDBf/SSS%20%2724%20-%20Day%202%20%28Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "title": "Day 2 (Afternoon Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ2ODVf/SSS%20%2724%20-%20Day%202%20%28Afternoon%20Session%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "title": "Day 3 (Morning Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ2OTBf/SSS%20%2724%20-%20Day%203%20%28Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "title": "Day 3 (Afternoon Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3NDlf/SSS%20%2724%20-%20Day%203%20%28Afternoon%20Session%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "title": "Day 3 (Evening Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3NDFf/SSS%20%2724%20-%20Day%203%20%28Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "title": "Day 4 (Morning Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3MjFf/SSS%20%2724%20-%20Day%204%20%28Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 8,
+                "title": "Day 4 (Evening Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3Mzhf/SSS%20%2724%20-%20Day%204%20%28Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 9,
+                "title": "Day 5 (Morning Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3MDBf/SSS%20%2724%20-%20Day%205%20%28Morning%20Session%29.mp3"
+            },
+            {
+                "track_number": 10,
+                "title": "Day 5 (Evening Session)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ3MDFf/SSS%20%2724%20-%20Day%205%20%28Evening%20Session%29.mp3"
+            },
+            {
+                "track_number": 11,
+                "title": "Day 6 (Sunday Service)",
+                "url": "https://od.lk/d/MzJfMzY0NTQ2OTVf/SSS%20%2724%20-%20Day%206%20%28Sunday%20Service%29.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "Effective Expressions",
         "slug": "effective-expressions",
         "image_url": "effective-expressions.png",
