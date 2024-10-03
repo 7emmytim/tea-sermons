@@ -1,17 +1,109 @@
 [
     {
+        "series": "The Soul Winner",
+        "description": "Series 1",
+        "slug": "the-soul-winner",
+        "image_url": "the-soul-winner.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzcyMzI2ODhf/The%20Soul%20Winner%20%28Series%201%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzcyMzI1MjFf/The%20Soul%20Winner%20%28Series%201%20-%20Part%202%29.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Faith Based on Facts",
+        "slug": "faith-based-on-facts",
+        "image_url": "faith-based-on-facts.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzcxNTM4MDNf/Faith%20Based%20on%20Facts.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzcyNDE1Mzdf/Faith%20Based%20on%20Facts%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Our Jesus",
+        "description": "Series 5",
+        "slug": "our-jesus-5",
+        "image_url": "our-jesus-5.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzcyMDAyNTZf/Our%20Jesus%20%28Series%205%20-%20Part%201%29.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzcyMDAyNThf/Our%20Jesus%20%28Series%205%20-%20Part%202%29.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": ""
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMzcyNDEzMDFf/Our%20Jesus%20%28Series%205%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfMzcyNDEzMTFf/Our%20Jesus%20%28Series%205%20-%20Part%205%29.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfMzczODcwODNf/Our%20Jesus%20%28Series%205%20-%20Part%206%29.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfMzczOTUyMzJf/Our%20Jesus%20%28Series%205%20-%20Part%207%29.mp3"
+            },
+            {
+                "track_number": 8,
+                "url": ""
+            },
+            {
+                "track_number": 9,
+                "url": ""
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "Moving Forward After SSS",
         "slug": "moving-forward-after-sss",
         "image_url": "moving-forward-after-sss.png",
         "tracks": [
             {
                 "track_number": 1,
-                "url": "https://od.lk/d/MzJfMzY0NTQ0Mjhf/Moving%20Forward%20After%20SSS%20-%20Part%201.mp3"
+                "url": "https://od.lk/d/MzJfMzY0NTQ0ODVf/Moving%20Forward%20After%20SSS%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzcxMTMyNzhf/Moving%20Forward%20After%20SSS%20-%20Part%202.mp3"
             }
         ],
         "year": "2024",
         "preachers": [
-            "Pastor Joy Omoba"
+            "Pastor Joy Omoba",
+            "Pastor Jesuoluwa Seun"
         ]
     },
     {
@@ -654,7 +746,7 @@
         ],
         "year": "2024",
         "preachers": [
-            "Pastor Jesuloluwa Seun"
+            "Pastor Jesuoluwa Seun"
         ]
     },
     {
