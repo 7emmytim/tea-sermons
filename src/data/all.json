@@ -1,5 +1,59 @@
 [
     {
+        "series": "The Spirit of Liberty",
+        "description": "Freedom of Worship",
+        "slug": "the-spirit-of-liberty-freedom-of-worship",
+        "image_url": "the-spirit-of-liberty-freedom-of-worship.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": ""
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzc5NTQ3ODlf/The%20Spirit%20of%20Liberty%20%28Freedom%20of%20Worship%29%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Pastor Jesuoluwa Seyifunmi"
+        ]
+    },
+    {
+        "series": "Soul Winning",
+        "description": "2024",
+        "slug": "soul-winning",
+        "image_url": "soul-winning-2024.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzgwMzk1MDJf/Why%20Soul%20Winning.mp3",
+                "preacher": "Ifeoluwa Esther",
+                "title": "Why Soul Winning"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzgwMzk0OTBf/Developing%20Passion%20And%20Preparation%20For%20Soul%20Winning.mp3",
+                "preacher": "Ayomide Onifade",
+                "title": "Developing Passion And Preparation For Soul Winning"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfMzgwMzk0OTVf/Practical%20Approach%20In%20Preaching%20The%20Gospel%20-%20Part%201.mp3",
+                "preacher": "Odejimi Olajumoke",
+                "title": "Practical Approach In Preaching The Gospel - Part 1"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfMzgwMzk0OTNf/Practical%20Approach%20In%20Preaching%20The%20Gospel%20-%20Part%202.mp3",
+                "preacher": "Sunday Erhunmwunse",
+                "title": "Practical Approach In Preaching The Gospel - Part 2"
+            }
+        ],
+        "year": "2024",
+        "preachers": []
+    },
+    {
         "series": "The Soul Winner",
         "description": "Series 1",
         "slug": "the-soul-winner",
@@ -79,6 +133,26 @@
             {
                 "track_number": 9,
                 "url": ""
+            },
+            {
+                "track_number": 10,
+                "url": "https://od.lk/d/MzJfMzc4MjM1MTNf/Our%20Jesus%20%28Series%205%20-%20Part%2010%29.mp3"
+            },
+            {
+                "track_number": 11,
+                "url": "https://od.lk/d/MzJfMzc4MjM1MTVf/Our%20Jesus%20%28Series%205%20-%20Part%2011%29.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/d/MzJfMzc4MjQ0MjFf/Our%20Jesus%20%28Series%205%20-%20Part%2012%29.mp3"
+            },
+            {
+                "track_number": 13,
+                "url": ""
+            },
+            {
+                "track_number": 14,
+                "url": "https://od.lk/d/MzJfMzc4NTU3MzFf/Our%20Jesus%20%28Series%205%20-%20Part%2014%29.mp3"
             }
         ],
         "year": "2024",
