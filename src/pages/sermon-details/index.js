@@ -43,7 +43,7 @@ export function SermonDetails({ param }) {
       <section className="py-5 rounded-lg">
         {sermon.tracks.length ? (
           <div className="divide-y divide-gray-100">
-            {sermon.tracks.map(({ title, track_number, url }) => (
+            {sermon.tracks.map(({ title, track_number, url, preacher }) => (
               <a
                 key={track_number}
                 href={url}
@@ -59,6 +59,7 @@ export function SermonDetails({ param }) {
                     <p className="mt-1 truncate text-xs leading-5 text-gray-500">
                       {/* {track.email} */}
                       {/* {sermon.preachers[0]} */}
+                      {preacher ?? sermon.preachers[0] ?? ""}
                     </p>
                   </div>
                 </div>
