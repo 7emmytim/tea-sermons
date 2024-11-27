@@ -1,5 +1,27 @@
 [
     {
+        "series": "Kubwa Believers' Meeting",
+        "description": "2024",
+        "slug": "kubwa-believers-meeting-2024",
+        "image_url": "kubwa-24.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "title": "Day 1",
+                "url": "https://od.lk/d/MzJfMzk0MzQ1NjVf/Kubwa%20Believers%27%20Meeting%20-%20Day%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "title": "Day 2",
+                "url": "https://od.lk/d/MzJfMzkyMjM5NjFf/Kubwa%20Believers%27%20Meeting%20-%20Day%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "The Spirit of Liberty",
         "description": "Freedom of Worship",
         "slug": "the-spirit-of-liberty-freedom-of-worship",
@@ -165,6 +187,10 @@
             {
                 "track_number": 16,
                 "url": "https://od.lk/d/MzJfMzg4NTMwOTFf/Our%20Jesus%20%28Series%205%20-%20Part%2016%29.mp3"
+            },
+            {
+                "track_number": 19,
+                "url": "https://od.lk/d/MzJfMzk0MzQ1NjRf/Our%20Jesus%20%28Series%205%20-%20Part%2019%29.mp3"
             }
         ],
         "year": "2024",
