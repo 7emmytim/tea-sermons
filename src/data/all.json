@@ -1,5 +1,35 @@
 [
     {
+        "series": "Obedience to the Gospel",
+        "description": "2024",
+        "slug": "obedience-to-the-gospel",
+        "image_url": "obedience-to-the-gospel.png",
+        "tracks": [
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfMzk5NzE3ODZf/Obedience%20To%20The%20Gospel%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "The Life-Giving Spirit of Christ",
+        "description": "2024",
+        "slug": "the-life-giving-spirit-of-christ",
+        "image_url": "the-life-giving-spirit-of-christ.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfMzk0MzQ3NjFf/The%20Life-Giving%20Spirit%20of%20Christ%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": []
+    },
+    {
         "series": "Kubwa Believers' Meeting",
         "description": "2024",
         "slug": "kubwa-believers-meeting-2024",
@@ -191,6 +221,10 @@
             {
                 "track_number": 19,
                 "url": "https://od.lk/d/MzJfMzk0MzQ1NjRf/Our%20Jesus%20%28Series%205%20-%20Part%2019%29.mp3"
+            },
+            {
+                "track_number": 30,
+                "url": "https://od.lk/d/MzJfNDAxMTY0OTJf/Our%20Jesus%20%28Series%205%20-%20Part%2030%29.mp3"
             }
         ],
         "year": "2024",

@@ -53,7 +53,7 @@ export function Sermons() {
   }, [search]);
 
   // useEffect(() => {
-  //   fetch("https://theedifyingassembly.org/api/v1/entity/all.json")
+  //   fetch("https://theedifyingassembly.com/api/v1/entity/all.json")
   //     .then((response) => response.json())
   //     .then((response) => setSermons(response))
   //     .catch((error) => console.log(error));
