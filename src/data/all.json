@@ -1,10 +1,86 @@
 [
     {
+        "series": "Atmosphere of Miracles",
+        "description": "2025",
+        "slug": "atmosphere-of-miracles",
+        "image_url": "atmosphere-of-miracles.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDAyNjkyNjJf/Atmosphere%20of%20Miracles%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Jesuoluwa Seun"
+        ]
+    },
+    {
+        "series": "Faith Clinic",
+        "description": "2025",
+        "slug": "faith-clinic",
+        "image_url": "faith-clinic.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDAzMjEwMzZf/Faith%20Clinic%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfNDAzMjkwMDlf/Faith%20Clinic%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Faithful Steward",
+        "description": "2025",
+        "slug": "faithful-steward",
+        "image_url": "faithful-steward.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDAxOTY5MDRf/Faithful%20Steward%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDAxOTY5MDlf/Faithful%20Steward%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Emmanuel Ugochukwu"
+        ]
+    },
+    {
+        "series": "Praying God's Will into Reality",
+        "description": "2025",
+        "slug": "praying-gods-will-into-reality",
+        "image_url": "praying-gods-will-into-reality.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDAxOTY4NTVf/Praying%20God%27s%20Will%20into%20Reality.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Ifeoluwa Esther"
+        ]
+    },
+    {
         "series": "Obedience to the Gospel",
         "description": "2024",
         "slug": "obedience-to-the-gospel",
         "image_url": "obedience-to-the-gospel.png",
         "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDAxOTY4ODVf/Obedience%20To%20The%20Gospel.mp3"
+            },
             {
                 "track_number": 2,
                 "url": "https://od.lk/d/MzJfMzk5NzE3ODZf/Obedience%20To%20The%20Gospel%20-%20Part%202.mp3"
@@ -219,8 +295,44 @@
                 "url": "https://od.lk/d/MzJfMzg4NTMwOTFf/Our%20Jesus%20%28Series%205%20-%20Part%2016%29.mp3"
             },
             {
+                "track_number": 17,
+                "url": "https://od.lk/d/MzJfNDAxOTY5Nzdf/Our%20Jesus%20%28Series%205%20-%20Part%2017%29.mp3"
+            },
+            {
                 "track_number": 19,
                 "url": "https://od.lk/d/MzJfMzk0MzQ1NjRf/Our%20Jesus%20%28Series%205%20-%20Part%2019%29.mp3"
+            },
+            {
+                "track_number": 21,
+                "url": "https://od.lk/d/MzJfNDAxOTYzNjZf/Our%20Jesus%20%28Series%205%20-%20Part%2021%29.mp3"
+            },
+            {
+                "track_number": 22,
+                "url": "https://od.lk/d/MzJfNDAxOTY5OTVf/Our%20Jesus%20%28Series%205%20-%20Part%2022%29.mp3"
+            },
+            {
+                "track_number": 23,
+                "url": "https://od.lk/d/MzJfNDAxOTcwMDBf/Our%20Jesus%20%28Series%205%20-%20Part%2023%29.mp3"
+            },
+            {
+                "track_number": 24,
+                "url": "https://od.lk/d/MzJfNDAxOTcwMDlf/Our%20Jesus%20%28Series%205%20-%20Part%2024%29.mp3"
+            },
+            {
+                "track_number": 25,
+                "url": "https://od.lk/d/MzJfNDAxOTYzNjVf/Our%20Jesus%20%28Series%205%20-%20Part%2025%29.mp3"
+            },
+            {
+                "track_number": 26,
+                "url": "https://od.lk/d/MzJfNDAxOTYzNjJf/Our%20Jesus%20%28Series%205%20-%20Part%2026%29.mp3"
+            },
+            {
+                "track_number": 27,
+                "url": "https://od.lk/d/MzJfNDAxOTYzNjBf/Our%20Jesus%20%28Series%205%20-%20Part%2027%29.mp3"
+            },
+            {
+                "track_number": 29,
+                "url": "https://od.lk/d/MzJfNDAxOTYzNTlf/Our%20Jesus%20%28Series%205%20-%20Part%2029%29.mp3"
             },
             {
                 "track_number": 30,
@@ -1723,11 +1835,11 @@
             },
             {
                 "track_number": 5,
-                "url": "https://od.lk/s/MzJfMjMyNDY2MTRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%206%29.mp3"
+                "url": "https://od.lk/d/MzJfMjMyNDY2MDdf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%205%29.mp3"
             },
             {
                 "track_number": 6,
-                "url": "https://od.lk/s/MzJfMjMyNDY2MTRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%206%29.mp3"
+                "url": "https://od.lk/d/MzJfMjMyNDY2MTRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%206%29.mp3"
             },
             {
                 "track_number": 7,
