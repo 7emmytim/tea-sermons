@@ -1,5 +1,50 @@
 [
     {
+        "series": "Kingdom Activities",
+        "description": "2025",
+        "slug": "kingdom-activities",
+        "image_url": "kingdom-activities.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDExMTQ4NzFf/Kingdom%20Activities%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": []
+    },
+    {
+        "series": "Light Bearers Convention",
+        "description": "2025",
+        "slug": "lbc-2025",
+        "image_url": "lbc-2025.png",
+        "tracks": [],
+        "year": "2025",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Preparing for Spiritual Meetings",
+        "description": "2025",
+        "slug": "preparing-for-spiritual-meetings",
+        "image_url": "preparing-for-spiritual-meetings.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "preacher": "Enwongo Ekanem",
+                "url": "https://od.lk/d/MzJfNDA5MjA4OTRf/Preparing%20For%20Spiritual%20Meetings.mp3"
+            },
+            {
+                "track_number": 2,
+                "preacher": "Pastor Jesuoluwa Oluwaseun",
+                "url": "https://od.lk/d/MzJfNDA5MjA5MDVf/Preparing%20For%20Spiritual%20Meetings%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": []
+    },
+    {
         "series": "Angels and Demons",
         "description": "The gods over the fallen world",
         "slug": "angels-and-demons-the-gods-over-the-fallen-world",
@@ -16,6 +61,22 @@
             {
                 "track_number": 3,
                 "url": "https://od.lk/d/MzJfNDA5MTIwNTlf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfNDA5NTU0MzZf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfNDA5NTU0Mzdf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%205.mp3"
+            },
+            {
+                "track_number": 6,
+                "url": "https://od.lk/d/MzJfNDA5NTU0NDBf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%206.mp3"
+            },
+            {
+                "track_number": 7,
+                "url": "https://od.lk/d/MzJfNDA5NTcxODFf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%207.mp3"
             }
         ],
         "year": "2025",
@@ -132,6 +193,33 @@
             {
                 "track_number": 2,
                 "url": "https://od.lk/d/MzJfMzk5NzE3ODZf/Obedience%20To%20The%20Gospel%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2024",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Ending the Year with Prayers",
+        "description": "2024",
+        "slug": "obedience-to-the-gospel",
+        "image_url": "obedience-to-the-gospel.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "preacher": "Pastor Joy Omoba",
+                "url": "https://od.lk/d/MzJfNDExNDk2NDJf/Ending%20The%20Year%20With%20Prayers%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "preacher": "Pastor Joy Omoba",
+                "url": "https://od.lk/d/MzJfNDExNDk2NDRf/Ending%20The%20Year%20with%20Prayers%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "preacher": "Pastor Jesuoluwa Oluwaseun",
+                "url": "https://od.lk/d/MzJfNDExNDk2NDVf/Ending%20The%20Year%20With%20Prayers%20-%20Part%203.mp3"
             }
         ],
         "year": "2024",
