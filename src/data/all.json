@@ -1,5 +1,37 @@
 [
     {
+        "series": "Waging War Against Distraction",
+        "description": "2025",
+        "slug": "waging-war-against-distraction",
+        "image_url": "waging-war-against-distraction.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDQwNTEyOTVf/Waging%20War%20Against%20Distraction%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "The Blessings of God",
+        "description": "2025",
+        "slug": "the-blessings-of-god",
+        "image_url": "the-blessings-of-god.png",
+        "tracks": [
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfNDM2NjEwODdf/The%20Blessings%20of%20God%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
         "series": "Kingdom Activities",
         "description": "2025",
         "slug": "kingdom-activities",
@@ -12,6 +44,22 @@
         ],
         "year": "2025",
         "preachers": []
+    },
+    {
+        "series": "Godly Intelligence in Getting Men Filled with the Holy Ghost",
+        "description": "2025",
+        "slug": "godly-intelligence-in-getting-men-filled-with-the-holy-ghost",
+        "image_url": "godly-intelligence-in-getting-men-filled-with-the-holy-ghost.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDQwODk4ODJf/Godly%20Intelligence%20in%20Getting%20Men%20Filled%20with%20the%20Holy%20Ghost%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Enwongo Ekanem"
+        ]
     },
     {
         "series": "Light Bearers Convention",
@@ -32,7 +80,7 @@
         "tracks": [
             {
                 "track_number": 1,
-                "preacher": "Enwongo Ekanem",
+                "preacher": "Pastor Enwongo Ekanem",
                 "url": "https://od.lk/d/MzJfNDA5MjA4OTRf/Preparing%20For%20Spiritual%20Meetings.mp3"
             },
             {
@@ -135,8 +183,16 @@
                 "url": "https://od.lk/d/MzJfNDAzMjEwMzZf/Faith%20Clinic%20-%20Part%201.mp3"
             },
             {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDQwMTEwMjJf/Faith%20Clinic%20-%20Part%202.mp3"
+            },
+            {
                 "track_number": 3,
                 "url": "https://od.lk/d/MzJfNDAzMjkwMDlf/Faith%20Clinic%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfNDQwMTEwMjVf/Faith%20Clinic%20-%20Part%204.mp3"
             }
         ],
         "year": "2025",
@@ -203,8 +259,8 @@
     {
         "series": "Ending the Year with Prayers",
         "description": "2024",
-        "slug": "obedience-to-the-gospel",
-        "image_url": "obedience-to-the-gospel.png",
+        "slug": "ending-the-year-with-prayers",
+        "image_url": "ending-the-year-with-prayers.png",
         "tracks": [
             {
                 "track_number": 1,
@@ -6177,6 +6233,7 @@
     },
     {
         "series": "Expressing The Spirit",
+        "description": "Joy",
         "slug": "expressing-the-spirit",
         "image_url": "ets.jpg",
         "tracks": [

@@ -41,11 +41,21 @@ export function Sermons() {
       const s = search.toLowerCase().trim();
       setPage(1);
       setSermons(() => {
-        return sermons_data.filter(
-          (item) =>
-            item.series.toLowerCase().includes(s) ||
-            item?.description?.toLowerCase()?.includes(s)
+        return getRelatedResults(
+          sermons_data.map((item) => {
+            return {
+              ...item,
+              query: `${item.series} ${item.description ?? ""}`,
+            };
+          }),
+          s,
+          ["query"]
         );
+        // return sermons_data.filter(
+        //   (item) =>
+        //     item.series.toLowerCase().includes(s) ||
+        //     item?.description?.toLowerCase()?.includes(s)
+        // );
       });
     } else {
       setSermons(sermons_data);
@@ -287,4 +297,48 @@ export function Image({ item }) {
       }}
     />
   );
+}
+
+function getRelatedResults(data, query, keys, threshold = 0.3) {
+  if (!query || !keys?.length) return [];
+
+  const lowerQuery = query.toLowerCase();
+
+  // Basic similarity scoring function
+  function relevanceScore(text) {
+    if (!text) return 0;
+    const lowerText = text.toLowerCase();
+
+    // Exact match: high score
+    if (lowerText === lowerQuery) return 1;
+
+    // Starts with query: medium-high
+    if (lowerText.startsWith(lowerQuery)) return 0.9;
+
+    // Includes query: medium
+    if (lowerText.includes(lowerQuery)) return 0.6;
+
+    // Loose fuzzy match: lower score
+    let matchCount = 0;
+    for (let char of lowerQuery) {
+      if (lowerText.includes(char)) matchCount++;
+    }
+
+    return (matchCount / lowerQuery.length) * 0.5;
+  }
+
+  // Score and filter results
+  return data
+    .map((item) => {
+      let score = 0;
+      for (let key of keys) {
+        if (item[key]) {
+          score = Math.max(score, relevanceScore(item[key].toString()));
+        }
+      }
+      return { item, score };
+    })
+    .filter((result) => result.score >= threshold)
+    .sort((a, b) => b.score - a.score)
+    .map((result) => result.item);
 }
