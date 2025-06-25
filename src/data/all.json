@@ -8,6 +8,30 @@
             {
                 "track_number": 1,
                 "url": "https://od.lk/d/MzJfNDQwNTEyOTVf/Waging%20War%20Against%20Distraction%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDQ2NDA4OTBf/Waging%20War%20Against%20Distraction%20-%20Part%202.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "The Culture of Giving",
+        "description": "2025",
+        "slug": "the-culture-of-giving",
+        "image_url": "the-culture-of-giving.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDQ2NDEwNDVf/The%20Culture%20Of%20Giving%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDQ2NDEwMTFf/The%20Culture%20of%20Giving%20-%20Part%202.mp3"
             }
         ],
         "year": "2025",
@@ -22,10 +46,25 @@
         "image_url": "the-blessings-of-god.png",
         "tracks": [
             {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDQ2NDA5ODNf/The%20Blessings%20of%20God%20-%20Part%202.mp3"
+            },
+            {
                 "track_number": 3,
                 "url": "https://od.lk/d/MzJfNDM2NjEwODdf/The%20Blessings%20of%20God%20-%20Part%203.mp3"
             }
         ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "The Lord of Host",
+        "description": "2025",
+        "slug": "the-lord-of-host",
+        "image_url": "the-lord-of-host.png",
+        "tracks": [],
         "year": "2025",
         "preachers": [
             "Pastor Joy Omoba"
@@ -40,6 +79,14 @@
             {
                 "track_number": 1,
                 "url": "https://od.lk/d/MzJfNDExMTQ4NzFf/Kingdom%20Activities%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfNDEyMDkzNDhf/Kingdom%20Activities%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfNDE2MTQ0NDNf/Kingdom%20Activities%20-%20Part%205.mp3"
             }
         ],
         "year": "2025",
@@ -125,6 +172,26 @@
             {
                 "track_number": 7,
                 "url": "https://od.lk/d/MzJfNDA5NTcxODFf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%207.mp3"
+            },
+            {
+                "track_number": 12,
+                "url": "https://od.lk/d/MzJfNDQ2NDEwNjlf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%2012.mp3"
+            },
+            {
+                "track_number": 15,
+                "url": "https://od.lk/d/MzJfNDQwMDA5MTlf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%2015.mp3"
+            },
+            {
+                "track_number": 16,
+                "url": "https://od.lk/d/MzJfNDQ2NDEwNTNf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%2016.mp3"
+            },
+            {
+                "track_number": 17,
+                "url": "https://od.lk/d/MzJfNDQ2NDEwNTZf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%2017.mp3"
+            },
+            {
+                "track_number": 18,
+                "url": "https://od.lk/d/MzJfNDQ2NDEwNThf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%2018.mp3"
             }
         ],
         "year": "2025",
@@ -149,6 +216,14 @@
             {
                 "track_number": 3,
                 "url": "https://od.lk/d/MzJfNDA5MTIyMDhf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%205%20-%20Part%203%29.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfNDEyMDkzNTBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%205%20-%20Part%204%29.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfNDQ2NDA1NTBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%205%20-%20Part%205%29.mp3"
             }
         ],
         "year": "2025",
