@@ -1,5 +1,32 @@
 [
     {
+        "series": "Desire and Passion For God",
+        "description": "2025",
+        "slug": "desire-and-passion-for-god",
+        "image_url": "desire-and-passion-for-god.png",
+        "tracks": [],
+        "year": "2025",
+        "preachers": [
+            "Ifeoluwa Esther"
+        ]
+    },
+    {
+        "series": "Greatness in God's Kingdom",
+        "description": "2025",
+        "slug": "greatness-in-gods-kingdom",
+        "image_url": "greatness-in-gods-kingdom.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDQ5ODIwODdf/Greatness%20in%20God%27s%20Kingdom%20-%20Part%201.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Jesuloluwa Seun"
+        ]
+    },
+    {
         "series": "Waging War Against Distraction",
         "description": "2025",
         "slug": "waging-war-against-distraction",
@@ -132,7 +159,7 @@
             },
             {
                 "track_number": 2,
-                "preacher": "Pastor Jesuoluwa Oluwaseun",
+                "preacher": "Pastor Jesuloluwa Seun",
                 "url": "https://od.lk/d/MzJfNDA5MjA5MDVf/Preparing%20For%20Spiritual%20Meetings%20-%20Part%202.mp3"
             }
         ],
@@ -244,7 +271,7 @@
         ],
         "year": "2025",
         "preachers": [
-            "Pastor Jesuoluwa Oluwaseun"
+            "Pastor Jesuloluwa Seun"
         ]
     },
     {
@@ -349,7 +376,7 @@
             },
             {
                 "track_number": 3,
-                "preacher": "Pastor Jesuoluwa Oluwaseun",
+                "preacher": "Pastor Jesuloluwa Seun",
                 "url": "https://od.lk/d/MzJfNDExNDk2NDVf/Ending%20The%20Year%20With%20Prayers%20-%20Part%203.mp3"
             }
         ],
@@ -566,8 +593,16 @@
                 "url": "https://od.lk/d/MzJfNDAxOTY5Nzdf/Our%20Jesus%20%28Series%205%20-%20Part%2017%29.mp3"
             },
             {
+                "track_number": 18,
+                "url": "https://od.lk/d/MzJfNDUwNTIyMzBf/Our%20Jesus%20%28Series%205%20-%20Part%2018%29.mp3"
+            },
+            {
                 "track_number": 19,
                 "url": "https://od.lk/d/MzJfMzk0MzQ1NjRf/Our%20Jesus%20%28Series%205%20-%20Part%2019%29.mp3"
+            },
+            {
+                "track_number": 20,
+                "url": "https://od.lk/d/MzJfNDUwNTMwNTJf/Our%20Jesus%20%28Series%205%20-%20Part%2020%29.mp3"
             },
             {
                 "track_number": 21,
@@ -598,6 +633,10 @@
                 "url": "https://od.lk/d/MzJfNDAxOTYzNjBf/Our%20Jesus%20%28Series%205%20-%20Part%2027%29.mp3"
             },
             {
+                "track_number": 28,
+                "url": "https://od.lk/d/MzJfNDUwNTU3NjFf/Our%20Jesus%20%28Series%205%20-%20Part%2028%29.mp3"
+            },
+            {
                 "track_number": 29,
                 "url": "https://od.lk/d/MzJfNDAxOTYzNTlf/Our%20Jesus%20%28Series%205%20-%20Part%2029%29.mp3"
             },
@@ -623,7 +662,7 @@
             },
             {
                 "track_number": 2,
-                "preacher": "Pastor Jesuoluwa Oluwaseun",
+                "preacher": "Pastor Jesuloluwa Seun",
                 "url": "https://od.lk/d/MzJfMzcxMTMyNzhf/Moving%20Forward%20After%20SSS%20-%20Part%202.mp3"
             }
         ],
@@ -819,7 +858,7 @@
         ],
         "year": "2024",
         "preachers": [
-            "Ifeoluwa Owoyemi"
+            "Ifeoluwa Esther"
         ]
     },
     {
@@ -1171,7 +1210,7 @@
         ],
         "year": "2024",
         "preachers": [
-            "Pastor Jesuoluwa Oluwaseun"
+            "Pastor Jesuloluwa Seun"
         ]
     },
     {
@@ -1270,7 +1309,7 @@
         ],
         "year": "2024",
         "preachers": [
-            "Pastor Jesuoluwa Oluwaseun"
+            "Pastor Jesuloluwa Seun"
         ]
     },
     {
@@ -7709,7 +7748,7 @@
         ],
         "year": "2018",
         "preachers": [
-            "Pastor Jesuoluwa Oluwaseun"
+            "Pastor Jesuloluwa Seun"
         ]
     },
     {
