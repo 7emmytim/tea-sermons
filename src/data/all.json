@@ -1,5 +1,72 @@
 [
     {
+        "series": "The God of Abraham",
+        "description": "2025",
+        "slug": "the-god-of-abraham",
+        "image_url": "the-god-of-abraham.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDU3Mjg1Mjhf/The%20God%20of%20Abraham%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDU3Mjg2MjBf/The%20God%20of%20Abraham%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfNDU3Mjg5MTdf/The%20God%20of%20Abraham%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfNDU3Mjg2MzZf/The%20God%20of%20Abraham%20-%20Part%204.mp3"
+            },
+            {
+                "track_number": 5,
+                "url": "https://od.lk/d/MzJfNDU3Mjg1MTRf/The%20God%20of%20Abraham%20-%20Part%205.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "Over and Beyond",
+        "description": "2025",
+        "slug": "over-and-beyond",
+        "image_url": "over-and-beyond.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDU3MjkwNjFf/Over%20and%20Beyond%20-%20Part%201.mp3"
+            },
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDU3MjkxMjZf/Over%20and%20Beyond%20-%20Part%202.mp3"
+            },
+            {
+                "track_number": 3,
+                "url": "https://od.lk/d/MzJfNDU3MjkzOTZf/Over%20and%20Beyond%20-%20Part%203.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Pastor Joy Omoba"
+        ]
+    },
+    {
+        "series": "Training By Difficult Situations",
+        "description": "2025",
+        "slug": "training-by-difficult-situations",
+        "image_url": "training-by-difficult-situations.png",
+        "tracks": [],
+        "year": "2025",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
         "series": "Desire and Passion For God",
         "description": "2025",
         "slug": "desire-and-passion-for-god",
@@ -63,7 +130,7 @@
         ],
         "year": "2025",
         "preachers": [
-            "Pastor Joy Omoba"
+            "Precious Ubani"
         ]
     },
     {
@@ -1708,7 +1775,7 @@
     {
         "series": "Responsibility",
         "slug": "responsibility",
-        "image_url": "",
+        "image_url": "responsibility-2023.png",
         "tracks": [
             {
                 "track_number": 1,
@@ -2204,7 +2271,7 @@
             },
             {
                 "track_number": 21,
-                "url": "https://od.lk/d/MzJfMjMzMzExNThf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2021%29%20mp3"
+                "url": "https://od.lk/d/MzJfMjM4MTI2MjBf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2021%29.mp3"
             },
             {
                 "track_number": 22,
@@ -2212,7 +2279,7 @@
             },
             {
                 "track_number": 23,
-                "url": "https://od.lk/d/MzJfMjMzNjYyMDRf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2023%29%20mp3"
+                "url": "https://od.lk/d/MzJfMjM4MTI2MjFf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%203%20-%20Part%2023%29.mp3"
             },
             {
                 "track_number": 24,
