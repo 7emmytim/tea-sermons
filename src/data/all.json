@@ -162,6 +162,10 @@
         "image_url": "the-blessings-of-god.png",
         "tracks": [
             {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDU3MzI1NDlf/The%20Blessings%20of%20God%20-%20Part%201.mp3"
+            },
+            {
                 "track_number": 2,
                 "url": "https://od.lk/d/MzJfNDQ2NDA5ODNf/The%20Blessings%20of%20God%20-%20Part%202.mp3"
             },
@@ -176,11 +180,16 @@
         ]
     },
     {
-        "series": "The Lord of Host",
+        "series": "The Lord of Hosts",
         "description": "2025",
-        "slug": "the-lord-of-host",
-        "image_url": "the-lord-of-host.png",
-        "tracks": [],
+        "slug": "the-lord-of-hosts",
+        "image_url": "the-lord-of-hosts.png",
+        "tracks": [
+            {
+                "track_number": 1,
+                "url": "https://od.lk/d/MzJfNDU3MzI1Mzlf/The%20Lord%20of%20Hosts%20-%20Part%201.mp3"
+            }
+        ],
         "year": "2025",
         "preachers": [
             "Pastor Joy Omoba"
@@ -197,8 +206,16 @@
                 "url": "https://od.lk/d/MzJfNDExMTQ4NzFf/Kingdom%20Activities%20-%20Part%201.mp3"
             },
             {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDU3MzI1Mjlf/Kingdom%20Activities%20-%20Part%202.mp3"
+            },
+            {
                 "track_number": 3,
                 "url": "https://od.lk/d/MzJfNDEyMDkzNDhf/Kingdom%20Activities%20-%20Part%203.mp3"
+            },
+            {
+                "track_number": 4,
+                "url": "https://od.lk/d/MzJfNDU3MzI1MzZf/Kingdom%20Activities%20-%20Part%204.mp3"
             },
             {
                 "track_number": 5,
@@ -206,7 +223,9 @@
             }
         ],
         "year": "2025",
-        "preachers": []
+        "preachers": [
+            "Omoba Temitope"
+        ]
     },
     {
         "series": "Godly Intelligence in Getting Men Filled with the Holy Ghost",
@@ -290,6 +309,10 @@
                 "url": "https://od.lk/d/MzJfNDA5NTcxODFf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%207.mp3"
             },
             {
+                "track_number": 9,
+                "url": "https://od.lk/d/MzJfNDU3MzI1NDRf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%209.mp3"
+            },
+            {
                 "track_number": 11,
                 "url": "https://od.lk/d/MzJfNDQ2NjIwMzJf/Angels%20and%20Demons%20%28The%20gods%20over%20the%20fallen%20world%29%20-%20Part%2011.mp3"
             },
@@ -364,6 +387,22 @@
             {
                 "track_number": 6,
                 "url": "https://od.lk/d/MzJfNDU3MzI0ODZf/The%20Gospel%20According%20To%20The%20Prophets%20%28Series%205%20-%20Part%206%29.mp3"
+            }
+        ],
+        "year": "2025",
+        "preachers": [
+            "Omoba Temitope"
+        ]
+    },
+    {
+        "series": "While In The Spirit (Audience Factor)",
+        "description": "2025",
+        "slug": "while-in-the-spirit-audience-factor",
+        "image_url": "while-in-the-spirit-audience-factor.png",
+        "tracks": [
+            {
+                "track_number": 2,
+                "url": "https://od.lk/d/MzJfNDU3MzI1MTZf/While%20In%20The%20Spirit%20%28Audience%20Factor%29%20-%20Part%202.mp3"
             }
         ],
         "year": "2025",
